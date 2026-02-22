@@ -189,6 +189,34 @@ function New-AliusHomeExploreHtml {
   return $sb.ToString()
 }
 
+function Remove-KofiArtifactsFromHtml {
+  param(
+    [Parameter(Mandatory = $true)][string]$Html
+  )
+
+  $result = $Html
+
+  $patterns = @(
+    "(?is)<script\b[^>]*src\s*=\s*['""][^'""]*storage\.ko-fi\.com[^'""]*['""][^>]*>\s*</script>",
+    "(?is)<script\b[^>]*>\s*kofiWidgetOverlay\.draw\([\s\S]*?</script>",
+    "(?is)<iframe\b[^>]*src\s*=\s*['""][^'""]*ko-fi\.com[^'""]*['""][^>]*>\s*</iframe>",
+    "(?is)<iframe\b[^>]*id\s*=\s*['""]kofiframe['""][^>]*>\s*</iframe>"
+  )
+
+  foreach ($pattern in $patterns) {
+    $result = [regex]::Replace($result, $pattern, "")
+  }
+
+  # Remove empty custom HTML wrappers left behind after Ko-fi snippet removal.
+  $result = [regex]::Replace(
+    $result,
+    "(?is)<div\b[^>]*class\s*=\s*['""][^'""]*\bwcustomhtml\b[^'""]*['""][^>]*>\s*</div>",
+    ""
+  )
+
+  return $result
+}
+
 function Add-AliusRefinedAssetsAndMetadata {
   param(
     [Parameter(Mandatory = $true)][string]$Html,
@@ -222,6 +250,9 @@ function Add-AliusRefinedAssetsAndMetadata {
     }
     if ($attrs -notmatch '\bdata-alius-layout=') {
       $attrs += (' data-alius-layout="' + [System.Web.HttpUtility]::HtmlAttributeEncode([string]$Page.layout) + '"')
+    }
+    if ($attrs -notmatch '\bdata-alius-base=') {
+      $attrs += (' data-alius-base="' + [System.Web.HttpUtility]::HtmlAttributeEncode((Normalize-ProjectBasePath -BasePath $ProjectBasePath)) + '"')
     }
     $newBodyTag = '<body' + $attrs + '>'
     $result = $result.Substring(0, $bodyMatch.Index) + $newBodyTag + $result.Substring($bodyMatch.Index + $bodyMatch.Length)
@@ -329,6 +360,7 @@ foreach ($page in $pages) {
     continue
   }
   $html = Read-TextFileSafe -Path $sourceAbs
+  $html = Remove-KofiArtifactsFromHtml -Html $html
   $html = Add-AliusRefinedAssetsAndMetadata -Html $html -Page $page -ProjectBasePath $projectBasePath
   $html = Add-AliusRefinedPageChrome -Html $html -Page $page -PublishedPagesByCanonical $publishedPagesByCanonical -ProjectBasePath $projectBasePath
   $html = Add-ProjectBasePathToRootRelativeUrls -Text $html -BasePath $projectBasePath
