@@ -202,7 +202,7 @@ function Add-ProjectBasePathToRootRelativeUrls {
   # CSS url(...) references (inline <style> and .css files)
   $textOut = [regex]::Replace(
     $textOut,
-    "(?is)(url\(\s*[""']?)/(?!/|$lead(?:/|$))",
+    "(?is)(url\(\s*(?:[""']|&quot;|&#34;|&#x22;)?)/(?!/|$lead(?:/|$))",
     ('$1' + $bp + '/')
   )
 
