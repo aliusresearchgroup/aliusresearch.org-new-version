@@ -3,5 +3,6 @@
     "source":  "Weebly export",
     "generated_utc":  "2026-02-22T15:52:32.9992695Z",
     "page_count":  145,
-    "canonical_url_strategy":  "hierarchical+redirects"
+    "canonical_url_strategy":  "hierarchical+redirects",
+    "github_pages_project_base_path":  "/aliusresearch.org"
 }

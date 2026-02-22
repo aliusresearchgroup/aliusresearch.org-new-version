@@ -153,6 +153,62 @@ function Get-HtmlDocumentParts {
   return [pscustomobject]$result
 }
 
+function Normalize-ProjectBasePath {
+  param([AllowEmptyString()][string]$BasePath)
+
+  if ([string]::IsNullOrWhiteSpace($BasePath)) { return "" }
+  $bp = $BasePath.Trim()
+  $bp = $bp.Replace("\", "/")
+  if (-not $bp.StartsWith("/")) { $bp = "/" + $bp }
+  $bp = $bp.TrimEnd("/")
+  if ($bp -eq "/") { return "" }
+  return $bp
+}
+
+function Add-ProjectBasePathToPath {
+  param(
+    [Parameter(Mandatory = $true)][string]$Path,
+    [AllowEmptyString()][string]$BasePath
+  )
+
+  $bp = Normalize-ProjectBasePath -BasePath $BasePath
+  if ([string]::IsNullOrEmpty($bp)) { return $Path }
+  if ([string]::IsNullOrWhiteSpace($Path)) { return $Path }
+  if (-not $Path.StartsWith("/")) { return $Path }
+  if ($Path.StartsWith("//")) { return $Path }
+  if ($Path -eq $bp -or $Path.StartsWith($bp + "/")) { return $Path }
+  if ($Path -eq "/") { return $bp + "/" }
+  return $bp + $Path
+}
+
+function Add-ProjectBasePathToRootRelativeUrls {
+  param(
+    [Parameter(Mandatory = $true)][AllowEmptyString()][string]$Text,
+    [AllowEmptyString()][string]$BasePath
+  )
+
+  $bp = Normalize-ProjectBasePath -BasePath $BasePath
+  if ([string]::IsNullOrEmpty($bp)) { return $Text }
+
+  $lead = [regex]::Escape($bp.TrimStart("/"))
+
+  # HTML attributes
+  $textOut = [regex]::Replace(
+    $Text,
+    "(?is)(\b(?:href|src|action|poster)\s*=\s*[""'])/(?!/|$lead(?:/|$))",
+    ('$1' + $bp + '/')
+  )
+
+  # CSS url(...) references (inline <style> and .css files)
+  $textOut = [regex]::Replace(
+    $textOut,
+    "(?is)(url\(\s*[""']?)/(?!/|$lead(?:/|$))",
+    ('$1' + $bp + '/')
+  )
+
+  return $textOut
+}
+
 function Get-LocalUrlCandidatesFromText {
   param([Parameter(Mandatory = $true)][string]$Text)
 
@@ -300,21 +356,23 @@ function Get-HashGroupedItems {
 function New-RedirectHtml {
   param(
     [Parameter(Mandatory = $true)][string]$TargetPath,
-    [Parameter(Mandatory = $true)][string]$LegacyPath
+    [Parameter(Mandatory = $true)][string]$LegacyPath,
+    [AllowEmptyString()][string]$ProjectBasePath = ""
   )
+  $redirectTarget = Add-ProjectBasePathToPath -Path $TargetPath -BasePath $ProjectBasePath
 @"
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url=$TargetPath">
-  <link rel="canonical" href="$TargetPath">
+  <meta http-equiv="refresh" content="0; url=$redirectTarget">
+  <link rel="canonical" href="$redirectTarget">
   <meta name="robots" content="noindex">
   <title>Redirecting...</title>
-  <script>location.replace("$TargetPath");</script>
+  <script>location.replace("$redirectTarget");</script>
 </head>
 <body>
-  <p>Redirecting from <code>$LegacyPath</code> to <a href="$TargetPath">$TargetPath</a>.</p>
+  <p>Redirecting from <code>$LegacyPath</code> to <a href="$redirectTarget">$redirectTarget</a>.</p>
 </body>
 </html>
 "@

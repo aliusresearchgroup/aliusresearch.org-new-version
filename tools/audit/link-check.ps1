@@ -10,6 +10,17 @@ Set-StrictMode -Version Latest
 $docsPath = Join-Path $RepoRoot $DocsDir
 if (-not (Test-Path -LiteralPath $docsPath)) { throw "Docs dir not found: $docsPath" }
 
+$projectBasePath = ""
+$siteConfigPath = Join-Path $RepoRoot "site-src\data\site.json"
+if (Test-Path -LiteralPath $siteConfigPath) {
+  try {
+    $siteConfig = Get-Content -LiteralPath $siteConfigPath -Raw | ConvertFrom-Json
+    $projectBasePath = Normalize-ProjectBasePath -BasePath ([string]$siteConfig.github_pages_project_base_path)
+  } catch {
+    Write-Warning "Could not read site config for project base path: $_"
+  }
+}
+
 $allDocFiles = Get-ChildItem -LiteralPath $docsPath -Recurse -File
 $docPathSet = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::OrdinalIgnoreCase)
 foreach ($f in $allDocFiles) {
@@ -31,6 +42,13 @@ foreach ($page in $pages) {
     if ($u -match '^(?:YOUR_LINK_URL_HERE|path/to/|api/placeholder/)') { continue }
     $pathPart = ($u -split '[?#]',2)[0]
     if ([string]::IsNullOrWhiteSpace($pathPart)) { continue }
+    if (-not [string]::IsNullOrWhiteSpace($projectBasePath)) {
+      if ($pathPart -eq $projectBasePath) {
+        $pathPart = "/"
+      } elseif ($pathPart.StartsWith($projectBasePath + "/")) {
+        $pathPart = $pathPart.Substring($projectBasePath.Length)
+      }
+    }
     $relCheck = $null
     if ($pathPart.StartsWith("/")) {
       $checkPath = Join-Path $docsPath ($pathPart.TrimStart("/") -replace "/", "\")

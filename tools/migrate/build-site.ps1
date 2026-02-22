@@ -16,6 +16,17 @@ $docsRoot = Join-Path $RepoRoot $DocsOut
 $migrationRoot = Join-Path $RepoRoot "migration"
 Ensure-Directory -Path $migrationRoot
 
+$projectBasePath = ""
+$siteConfigPath = Join-Path $dataRoot "site.json"
+if (Test-Path -LiteralPath $siteConfigPath) {
+  try {
+    $siteConfig = Get-Content -LiteralPath $siteConfigPath -Raw | ConvertFrom-Json
+    $projectBasePath = [string]$siteConfig.github_pages_project_base_path
+  } catch {
+    Write-Warning "Could not read site config for project base path: $_"
+  }
+}
+
 if ($CleanDocs -and (Test-Path -LiteralPath $docsRoot)) {
   $stamp = (Get-Date).ToString("yyyyMMdd-HHmmss")
   $backupDocs = Join-Path $RepoRoot ("docs-prev-" + $stamp)
@@ -59,6 +70,7 @@ foreach ($page in $pages) {
     continue
   }
   $html = Read-TextFileSafe -Path $sourceAbs
+  $html = Add-ProjectBasePathToRootRelativeUrls -Text $html -BasePath $projectBasePath
 
   if ($canonical -eq "/") {
     $outPath = Join-Path $docsRoot "index.html"
@@ -76,12 +88,28 @@ Write-TextFileUtf8NoBom -Path (Join-Path $docsRoot ".nojekyll") -Content ""
 
 & (Join-Path $PSScriptRoot "generate-redirects.ps1") -RepoRoot $RepoRoot -DocsOut $DocsOut -SiteSrc $SiteSrc | Out-Null
 
+if (-not [string]::IsNullOrWhiteSpace((Normalize-ProjectBasePath -BasePath $projectBasePath))) {
+  # Ensure inline and external CSS assets also resolve under project Pages subpath.
+  Get-ChildItem -LiteralPath $docsRoot -Recurse -Include *.css -File | ForEach-Object {
+    try {
+      $css = Read-TextFileSafe -Path $_.FullName
+      $rewritten = Add-ProjectBasePathToRootRelativeUrls -Text $css -BasePath $projectBasePath
+      if ($rewritten -ne $css) {
+        Write-TextFileUtf8NoBom -Path $_.FullName -Content $rewritten
+      }
+    } catch {
+      Write-Warning "Failed project-base rewrite for CSS $($_.FullName): $_"
+    }
+  }
+}
+
 $summary = @(
   "Generated UTC: $([DateTime]::UtcNow.ToString('o'))",
   "Docs output: $docsRoot",
   "Canonical pages written: $pageCount",
   "Static root copied: $staticRoot",
-  "Redirect stubs: $(if (Test-Path -LiteralPath (Join-Path $dataRoot 'redirects.json')) { (Get-Content -LiteralPath (Join-Path $dataRoot 'redirects.json') -Raw | ConvertFrom-Json).Count } else { 0 })"
+  "Redirect stubs: $(if (Test-Path -LiteralPath (Join-Path $dataRoot 'redirects.json')) { (Get-Content -LiteralPath (Join-Path $dataRoot 'redirects.json') -Raw | ConvertFrom-Json).Count } else { 0 })",
+  "GitHub Pages project base path: $(if ([string]::IsNullOrWhiteSpace((Normalize-ProjectBasePath -BasePath $projectBasePath))) { '(none)' } else { Normalize-ProjectBasePath -BasePath $projectBasePath })"
 )
 Write-LinesUtf8NoBom -Path (Join-Path $migrationRoot "build-summary.txt") -Lines $summary
 

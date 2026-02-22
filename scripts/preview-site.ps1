@@ -61,6 +61,21 @@ if (-not (Test-Path -LiteralPath $rootFull -PathType Container)) {
     throw "Site root not found: $rootFull"
 }
 
+$projectBasePath = ""
+$siteConfigPath = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot "..\site-src\data\site.json"))
+if (Test-Path -LiteralPath $siteConfigPath) {
+    try {
+        $siteConfig = Get-Content -LiteralPath $siteConfigPath -Raw | ConvertFrom-Json
+        $bp = [string]$siteConfig.github_pages_project_base_path
+        if (-not [string]::IsNullOrWhiteSpace($bp)) {
+            $bp = $bp.Replace("\", "/").Trim()
+            if (-not $bp.StartsWith("/")) { $bp = "/" + $bp }
+            $bp = $bp.TrimEnd("/")
+            if ($bp -ne "/") { $projectBasePath = $bp }
+        }
+    } catch {}
+}
+
 $listener = $null
 $selectedPort = $null
 
@@ -114,6 +129,15 @@ try {
         $requestPath = [Uri]::UnescapeDataString($request.Url.AbsolutePath)
         if ([string]::IsNullOrWhiteSpace($requestPath)) {
             $requestPath = "/"
+        }
+        if (-not [string]::IsNullOrWhiteSpace($projectBasePath)) {
+            if ($requestPath -eq $projectBasePath) {
+                $requestPath = "/"
+            }
+            elseif ($requestPath.StartsWith($projectBasePath + "/")) {
+                $requestPath = $requestPath.Substring($projectBasePath.Length)
+                if ([string]::IsNullOrWhiteSpace($requestPath)) { $requestPath = "/" }
+            }
         }
 
         try {
