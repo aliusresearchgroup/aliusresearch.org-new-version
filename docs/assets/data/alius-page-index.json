@@ -1,0 +1,1235 @@
+[
+    {
+        "id":  "about",
+        "canonical_path":  "/about/",
+        "section":  "about",
+        "subcategory":  "",
+        "layout":  "page",
+        "title":  "About",
+        "description":  "ALIUS Research Group was created to study all aspects of consciousness, with a specific focus on unusual or understudied conscious states traditionally classified as Altered States of Consciousness (ASCs)."
+    },
+    {
+        "id":  "active-roles",
+        "canonical_path":  "/pages/active-roles/",
+        "section":  "pages",
+        "subcategory":  "active-roles",
+        "layout":  "page",
+        "title":  "Active Roles",
+        "description":  ""
+    },
+    {
+        "id":  "alpha-waves",
+        "canonical_path":  "/pages/alpha-waves/",
+        "section":  "pages",
+        "subcategory":  "alpha-waves",
+        "layout":  "page",
+        "title":  "Waves beyond waveforms",
+        "description":  "Waves beyond waveforms:\n(Mis)interpretation of alpha oscillations\nin cognitive neuroscience"
+    },
+    {
+        "id":  "anima",
+        "canonical_path":  "/research/projects/anima/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "anima",
+        "description":  ""
+    },
+    {
+        "id":  "application-late",
+        "canonical_path":  "/events/application-late/",
+        "section":  "events",
+        "subcategory":  "application-late",
+        "layout":  "article",
+        "title":  "application-late",
+        "description":  ""
+    },
+    {
+        "id":  "attendees",
+        "canonical_path":  "/events/attendees/",
+        "section":  "events",
+        "subcategory":  "attendees",
+        "layout":  "article",
+        "title":  "Attendees",
+        "description":  ""
+    },
+    {
+        "id":  "become-a-member",
+        "canonical_path":  "/community/become-a-member/",
+        "section":  "community",
+        "subcategory":  "become-a-member",
+        "layout":  "page",
+        "title":  "Become a member",
+        "description":  "ALIUS Research Group was created to study all aspects of consciousness, with a specific focus on unusual or understudied conscious states traditionally classified as Altered States of Consciousness (ASCs)."
+    },
+    {
+        "id":  "bicycle-day-workshop",
+        "canonical_path":  "/events/bicycle-day-workshop/",
+        "section":  "events",
+        "subcategory":  "bicycle-day-workshop",
+        "layout":  "article",
+        "title":  "Bicycle Day Workshop",
+        "description":  ""
+    },
+    {
+        "id":  "blog",
+        "canonical_path":  "/pages/blog/",
+        "section":  "pages",
+        "subcategory":  "blog",
+        "layout":  "page",
+        "title":  "Blog",
+        "description":  ""
+    },
+    {
+        "id":  "blog-v1",
+        "canonical_path":  "/pages/blog-v1/",
+        "section":  "pages",
+        "subcategory":  "blog-v1",
+        "layout":  "page",
+        "title":  "Alius - Blog-v1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin",
+        "canonical_path":  "/bulletin/",
+        "section":  "bulletin",
+        "subcategory":  "",
+        "layout":  "article",
+        "title":  "Bulletin",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01",
+        "canonical_path":  "/bulletin/issues/bulletin-01/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "Bulletin Issue n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01-carhartharrisinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin01-carhartharrisinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Robin Carhart-Harris - Alius Bulletin n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01-hohwyinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin01-hohwyinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Jakob Hohwy - Alius Bulletin n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01-luhrmanninterview",
+        "canonical_path":  "/bulletin/interviews/bulletin01-luhrmanninterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Tanya Luhrmann - Alius Bulletin n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01-mccarthyjonesinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin01-mccarthyjonesinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Simon McCarthy-Jones - Alius Bulletin n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01-seligmaninterview",
+        "canonical_path":  "/bulletin/interviews/bulletin01-seligmaninterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Rebecca Seligman - Alius Bulletin n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin01-windtinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin01-windtinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Jennifer Windt - Alius Bulletin n\u0026deg;1",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02",
+        "canonical_path":  "/bulletin/issues/bulletin-02/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "Bulletin Issue n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-foxinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-foxinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Kieran Fox - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-fristonbiography",
+        "canonical_path":  "/bulletin/interviews/bulletin02-fristonbiography/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Karl Friston Biography - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-fristoninterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-fristoninterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Karl Friston - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-metzingerinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-metzingerinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Thomas Metzinger - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-nicholsinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-nicholsinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "David Nichols - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-oreganinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-oreganinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Kevin O\u0027Regan - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-ratcliffeinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-ratcliffeinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Ratcliffe - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-ratcliffeinterview-496999-868603-823482-372692",
+        "canonical_path":  "/bulletin/interviews/bulletin02-ratcliffeinterview-496999-868603-823482-372692/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Ratcliffe - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin02-tavesinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin02-tavesinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Ann Taves - Alius Bulletin n\u0026deg;2",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin03",
+        "canonical_path":  "/bulletin/issues/bulletin-03/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "Bulletin Issue n\u0026deg;3",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin03-bayneinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin03-bayneinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Tim Bayne - Alius Bulletin n\u0026deg;3",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin03-dennettinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin03-dennettinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Daniel Dennett - Alius Bulletin n\u0026deg;3",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin03-dienesinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin03-dienesinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Zoltan Dienes - Alius Bulletin n\u0026deg;3",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin03-prellerinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin03-prellerinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Katrin Preller - Alius Bulletin n\u0026deg;3",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin03-winkelmaninterview",
+        "canonical_path":  "/bulletin/interviews/bulletin03-winkelmaninterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Michael Winkelman - Alius Bulletin n\u0026deg;3",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04",
+        "canonical_path":  "/bulletin/issues/bulletin-04/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "Bulletin Issue n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-bairdinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-bairdinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Benjamin Baird - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-carterinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-carterinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Olivia Carter - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-gosseriesinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-gosseriesinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Olivia Gosseries - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-hanksinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-hanksinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Timothy Hanks - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-lenggenhagerinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-lenggenhagerinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Bigna Lenggenhager - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-martintribute",
+        "canonical_path":  "/bulletin/interviews/bulletin04-martintribute/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Tribute to Martin - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-nicholsinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-nicholsinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Nichols \u0026amp; Nichols - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin04-vignemontinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin04-vignemontinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Vignemont - Alius Bulletin n\u0026deg;4",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin05",
+        "canonical_path":  "/bulletin/issues/bulletin-05/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "Bulletin Issue n\u0026deg;5",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin05-cannaseligmaninterview",
+        "canonical_path":  "/bulletin/interviews/bulletin05-cannaseligmaninterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Canna \u0026amp; Seligman - Alius Bulletin n\u0026deg;5",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin05-chadhainterview",
+        "canonical_path":  "/bulletin/interviews/bulletin05-chadhainterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Chadha - Alius Bulletin n\u0026deg;5",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin05-martial",
+        "canonical_path":  "/bulletin/interviews/bulletin05-martial/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Martial - NDE in the public debate",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin05-olsonyadeninterview",
+        "canonical_path":  "/bulletin/interviews/bulletin05-olsonyadeninterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Olson \u0026amp; Yaden - Alius Bulletin n\u0026deg;5",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin05-schmidtinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin05-schmidtinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Schmidt - Alius Bulletin n\u0026deg;5",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06",
+        "canonical_path":  "/bulletin/issues/bulletin-06/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "Bulletin Issue n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-ciaunica-podcast",
+        "canonical_path":  "/bulletin/interviews/bulletin06-ciaunica-podcast/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Ciaunica - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-dossinterview-532533",
+        "canonical_path":  "/bulletin/interviews/bulletin06-dossinterview-532533/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Doss",
+        "description":  "Cinco Sins of Psychedelic Research"
+    },
+    {
+        "id":  "bulletin06-gonzalez-interview",
+        "canonical_path":  "/bulletin/interviews/bulletin06-gonzalez-interview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Gonz\u0026aacute;lez - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-gonzalez-interview-193094",
+        "canonical_path":  "/bulletin/interviews/bulletin06-gonzalez-interview-193094/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Gonz\u0026aacute;lez - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-jillings-podcast",
+        "canonical_path":  "/bulletin/interviews/bulletin06-jillings-podcast/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Jillings - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-koroma-podcast",
+        "canonical_path":  "/bulletin/interviews/bulletin06-koroma-podcast/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Koroma - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-koroma-podcast-348367",
+        "canonical_path":  "/bulletin/interviews/bulletin06-koroma-podcast-348367/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Koroma - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin06-sapolskyinterview",
+        "canonical_path":  "/bulletin/interviews/bulletin06-sapolskyinterview/",
+        "section":  "bulletin",
+        "subcategory":  "interviews",
+        "layout":  "article",
+        "title":  "Sapolsky - Alius Bulletin n\u0026deg;6",
+        "description":  ""
+    },
+    {
+        "id":  "bulletin07",
+        "canonical_path":  "/bulletin/issues/bulletin-07/",
+        "section":  "bulletin",
+        "subcategory":  "issues",
+        "layout":  "article",
+        "title":  "bulletin07",
+        "description":  ""
+    },
+    {
+        "id":  "cardiac-sleep",
+        "canonical_path":  "/research/projects/cardiac_sleep/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Cardiac responses to sounds reveal the embodiment of sleep functions",
+        "description":  ""
+    },
+    {
+        "id":  "changeux",
+        "canonical_path":  "/pages/changeux/",
+        "section":  "pages",
+        "subcategory":  "changeux",
+        "layout":  "page",
+        "title":  "Changeux",
+        "description":  "Consciousness : from molecular to social scales"
+    },
+    {
+        "id":  "cincosins",
+        "canonical_path":  "/pages/cincosins/",
+        "section":  "pages",
+        "subcategory":  "cincosins",
+        "layout":  "page",
+        "title":  "Cinco Sins of Psychedelic Research",
+        "description":  ""
+    },
+    {
+        "id":  "classification-schemes",
+        "canonical_path":  "/pages/classification-schemes/",
+        "section":  "pages",
+        "subcategory":  "classification-schemes",
+        "layout":  "page",
+        "title":  "Classification Schemes of Altered States of Consciousness",
+        "description":  "Classification Schemes of ​Altered States of Consciousness"
+    },
+    {
+        "id":  "commentaries",
+        "canonical_path":  "/research/commentaries/commentaries/",
+        "section":  "research",
+        "subcategory":  "commentaries",
+        "layout":  "article",
+        "title":  "Commentaries",
+        "description":  ""
+    },
+    {
+        "id":  "commentaries2",
+        "canonical_path":  "/research/commentaries/commentaries2/",
+        "section":  "research",
+        "subcategory":  "commentaries",
+        "layout":  "article",
+        "title":  "Commentaries",
+        "description":  ""
+    },
+    {
+        "id":  "cultural-shaping-of-consciousness",
+        "canonical_path":  "/research/projects/cultural-shaping-of-consciousness/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "The Cultural Shaping of Consciousness",
+        "description":  ""
+    },
+    {
+        "id":  "depersonalisation",
+        "canonical_path":  "/research/projects/depersonalisation/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "depersonalisation",
+        "description":  ""
+    },
+    {
+        "id":  "episodes",
+        "canonical_path":  "/media/episodes/",
+        "section":  "media",
+        "subcategory":  "episodes",
+        "layout":  "article",
+        "title":  "Episodes",
+        "description":  ""
+    },
+    {
+        "id":  "events",
+        "canonical_path":  "/events/events/",
+        "section":  "events",
+        "subcategory":  "events",
+        "layout":  "article",
+        "title":  "Events",
+        "description":  ""
+    },
+    {
+        "id":  "francelerner",
+        "canonical_path":  "/pages/francelerner/",
+        "section":  "pages",
+        "subcategory":  "francelerner",
+        "layout":  "page",
+        "title":  "France Lerner",
+        "description":  ""
+    },
+    {
+        "id":  "froese",
+        "canonical_path":  "/pages/froese/",
+        "section":  "pages",
+        "subcategory":  "froese",
+        "layout":  "page",
+        "title":  "Froese",
+        "description":  "The irruption theory: How mind and matter meet along the route to consciousness"
+    },
+    {
+        "id":  "images-visionnaires",
+        "canonical_path":  "/media/images-visionnaires/",
+        "section":  "media",
+        "subcategory":  "images-visionnaires",
+        "layout":  "article",
+        "title":  "Images Visionnaires",
+        "description":  ""
+    },
+    {
+        "id":  "index",
+        "canonical_path":  "/",
+        "section":  "root",
+        "subcategory":  "",
+        "layout":  "page",
+        "title":  "Alius - Exploring the diversity of consciousness",
+        "description":  "ALIUS is an international and interdisciplinary research group dedicated to the investigation of all aspects of consciousness."
+    },
+    {
+        "id":  "interviews",
+        "canonical_path":  "/articles/interviews/interviews/",
+        "section":  "articles",
+        "subcategory":  "interviews",
+        "layout":  "page",
+        "title":  "Interviews",
+        "description":  ""
+    },
+    {
+        "id":  "interviews-543677",
+        "canonical_path":  "/articles/interviews/interviews-543677/",
+        "section":  "articles",
+        "subcategory":  "interviews",
+        "layout":  "page",
+        "title":  "2025",
+        "description":  ""
+    },
+    {
+        "id":  "interviews-543677-730818",
+        "canonical_path":  "/articles/interviews/interviews-543677-730818/",
+        "section":  "articles",
+        "subcategory":  "interviews",
+        "layout":  "page",
+        "title":  "2024",
+        "description":  ""
+    },
+    {
+        "id":  "interviews-785795-961587",
+        "canonical_path":  "/articles/interviews/interviews-785795-961587/",
+        "section":  "articles",
+        "subcategory":  "interviews",
+        "layout":  "page",
+        "title":  "Commentaries",
+        "description":  ""
+    },
+    {
+        "id":  "jeanremy-martin-01",
+        "canonical_path":  "/pages/jeanremy-martin-01/",
+        "section":  "pages",
+        "subcategory":  "jeanremy-martin-01",
+        "layout":  "page",
+        "title":  "Jean-R\u0026eacute;my Martin - Consciousness anaesthetised: placebo and metacognition",
+        "description":  ""
+    },
+    {
+        "id":  "jeanremy-martin-intro",
+        "canonical_path":  "/pages/jeanremy-martin-intro/",
+        "section":  "pages",
+        "subcategory":  "jeanremy-martin-intro",
+        "layout":  "page",
+        "title":  "Introducing Jean-R\u0026eacute;my Martin",
+        "description":  ""
+    },
+    {
+        "id":  "journal-club",
+        "canonical_path":  "/events/journal-club/",
+        "section":  "events",
+        "subcategory":  "journal-club",
+        "layout":  "article",
+        "title":  "Journal Clubs",
+        "description":  ""
+    },
+    {
+        "id":  "journal-club-228113",
+        "canonical_path":  "/events/journal-club-228113/",
+        "section":  "events",
+        "subcategory":  "journal-club-228113",
+        "layout":  "article",
+        "title":  "Journal Clubs",
+        "description":  ""
+    },
+    {
+        "id":  "journalclub-868968",
+        "canonical_path":  "/events/journalclub-868968/",
+        "section":  "events",
+        "subcategory":  "journalclub-868968",
+        "layout":  "article",
+        "title":  "How to study the effects of psychedelics",
+        "description":  ""
+    },
+    {
+        "id":  "journal-club-995321",
+        "canonical_path":  "/events/journal-club-995321/",
+        "section":  "events",
+        "subcategory":  "journal-club-995321",
+        "layout":  "article",
+        "title":  "Journal Clubs",
+        "description":  ""
+    },
+    {
+        "id":  "journee-etudes-martin-fortier",
+        "canonical_path":  "/pages/journee-etudes-martin-fortier/",
+        "section":  "pages",
+        "subcategory":  "journee-etudes-martin-fortier",
+        "layout":  "page",
+        "title":  "Journ\u0026eacute;e d\u0027\u0026eacute;tudes Martin Fortier",
+        "description":  ""
+    },
+    {
+        "id":  "link-page",
+        "canonical_path":  "/pages/link-page/",
+        "section":  "pages",
+        "subcategory":  "link-page",
+        "layout":  "page",
+        "title":  "Link Page",
+        "description":  ""
+    },
+    {
+        "id":  "mapping-dmt",
+        "canonical_path":  "/research/projects/mapping-dmt/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Mapping neural dynamics to experience dynamics in a dose-response study of DMT",
+        "description":  "Mapping neural dynamics to experience dynamics in a dose-response study of DMT"
+    },
+    {
+        "id":  "martial-nde-commentary",
+        "canonical_path":  "/pages/martial-nde-commentary/",
+        "section":  "pages",
+        "subcategory":  "martial-nde-commentary",
+        "layout":  "page",
+        "title":  "Martial",
+        "description":  ""
+    },
+    {
+        "id":  "martinfortier",
+        "canonical_path":  "/pages/martinfortier/",
+        "section":  "pages",
+        "subcategory":  "martinfortier",
+        "layout":  "page",
+        "title":  "In Memoriam",
+        "description":  ""
+    },
+    {
+        "id":  "media",
+        "canonical_path":  "/media/media/",
+        "section":  "media",
+        "subcategory":  "media",
+        "layout":  "article",
+        "title":  "Media",
+        "description":  ""
+    },
+    {
+        "id":  "meditation-psychedelics-self",
+        "canonical_path":  "/research/projects/meditation-psychedelics-self/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Meditation, psychedelics and the self",
+        "description":  "Meditation, psychedelics and the self"
+    },
+    {
+        "id":  "members1",
+        "canonical_path":  "/community/members1/",
+        "section":  "community",
+        "subcategory":  "members1",
+        "layout":  "page",
+        "title":  "members",
+        "description":  ""
+    },
+    {
+        "id":  "membership-renewal",
+        "canonical_path":  "/community/membership-renewal/",
+        "section":  "community",
+        "subcategory":  "membership-renewal",
+        "layout":  "page",
+        "title":  "Membership Tiers",
+        "description":  ""
+    },
+    {
+        "id":  "membership-renewal-178580",
+        "canonical_path":  "/community/membership-renewal-178580/",
+        "section":  "community",
+        "subcategory":  "membership-renewal-178580",
+        "layout":  "page",
+        "title":  "Researcher Membership",
+        "description":  ""
+    },
+    {
+        "id":  "membership-renewal-894351",
+        "canonical_path":  "/community/membership-renewal-894351/",
+        "section":  "community",
+        "subcategory":  "membership-renewal-894351",
+        "layout":  "page",
+        "title":  "Membership",
+        "description":  ""
+    },
+    {
+        "id":  "music",
+        "canonical_path":  "/media/music/",
+        "section":  "media",
+        "subcategory":  "music",
+        "layout":  "article",
+        "title":  "Music",
+        "description":  ""
+    },
+    {
+        "id":  "newsletter",
+        "canonical_path":  "/community/newsletter/",
+        "section":  "community",
+        "subcategory":  "newsletter",
+        "layout":  "page",
+        "title":  "Newsletter",
+        "description":  ""
+    },
+    {
+        "id":  "nichols-nichols-endogenous-dmt",
+        "canonical_path":  "/research/projects/nichols-nichols-endogenous-dmt/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Charles Nichols \u0026amp; David Nichols \u0026ndash; Debating endogenous DMT in the brain",
+        "description":  ""
+    },
+    {
+        "id":  "peripersonal",
+        "canonical_path":  "/research/projects/peripersonal/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Peripersonal Space",
+        "description":  ""
+    },
+    {
+        "id":  "physiopheno",
+        "canonical_path":  "/research/projects/physiopheno/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Physiophenomenology",
+        "description":  ""
+    },
+    {
+        "id":  "pics",
+        "canonical_path":  "/media/pics/",
+        "section":  "media",
+        "subcategory":  "pics",
+        "layout":  "article",
+        "title":  "Pictures",
+        "description":  ""
+    },
+    {
+        "id":  "podcast",
+        "canonical_path":  "/media/podcast/",
+        "section":  "media",
+        "subcategory":  "podcast",
+        "layout":  "article",
+        "title":  "Podcast",
+        "description":  ""
+    },
+    {
+        "id":  "polona-pozeg-01",
+        "canonical_path":  "/pages/polona-pozeg-01/",
+        "section":  "pages",
+        "subcategory":  "polona-pozeg-01",
+        "layout":  "page",
+        "title":  "Polona Pozeg - Bodily foundations of the sense of self",
+        "description":  ""
+    },
+    {
+        "id":  "polona-pozeg-intro",
+        "canonical_path":  "/pages/polona-pozeg-intro/",
+        "section":  "pages",
+        "subcategory":  "polona-pozeg-intro",
+        "layout":  "page",
+        "title":  "Introducing Polona Pozeg",
+        "description":  ""
+    },
+    {
+        "id":  "projects",
+        "canonical_path":  "/research/projects/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Projects",
+        "description":  ""
+    },
+    {
+        "id":  "psychedelic-pharmacology",
+        "canonical_path":  "/research/projects/psychedelic-pharmacology/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Pharmacological principles of psychedelic drug action",
+        "description":  "What do pharmacological principles teach us on psychedelic drug action?"
+    },
+    {
+        "id":  "psychedelics-challenging-experiences",
+        "canonical_path":  "/research/projects/psychedelics-challenging-experiences/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Navigating Ontologically Challenging Psychedelic Experiences",
+        "description":  "Navigating Ontologically Challenging Psychedelic Experiences"
+    },
+    {
+        "id":  "psychedelics-extrended-difficulties",
+        "canonical_path":  "/research/projects/psychedelics-extrended-difficulties/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Navigating Ontologically Challenging Psychedelic Experiences",
+        "description":  "Extended difficulties following the use of psychedelic drugs​"
+    },
+    {
+        "id":  "psychedelic-therapy",
+        "canonical_path":  "/research/projects/psychedelic-therapy/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Psychedelic-Assisted Therapy: From Research to Policy Implementation",
+        "description":  ""
+    },
+    {
+        "id":  "qualius",
+        "canonical_path":  "/research/projects/qualius/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "ASSC Satellite",
+        "description":  "A brief description of your webpage."
+    },
+    {
+        "id":  "qualius-program",
+        "canonical_path":  "/research/projects/qualius-program/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Program Information",
+        "description":  ""
+    },
+    {
+        "id":  "research",
+        "canonical_path":  "/research/",
+        "section":  "research",
+        "subcategory":  "",
+        "layout":  "article",
+        "title":  "Research",
+        "description":  ""
+    },
+    {
+        "id":  "research1",
+        "canonical_path":  "/research/research1/",
+        "section":  "research",
+        "subcategory":  "",
+        "layout":  "article",
+        "title":  "Research",
+        "description":  ""
+    },
+    {
+        "id":  "researcher-members",
+        "canonical_path":  "/community/researcher-members/",
+        "section":  "community",
+        "subcategory":  "researcher-members",
+        "layout":  "page",
+        "title":  "Researcher Members",
+        "description":  ""
+    },
+    {
+        "id":  "seeing-in-the-dark",
+        "canonical_path":  "/pages/seeing-in-the-dark/",
+        "section":  "pages",
+        "subcategory":  "seeing-in-the-dark",
+        "layout":  "page",
+        "title":  "Seeing in the dark: making sense of psychedelics action on brain and behaviour in naturalistic settings",
+        "description":  "Seeing in the dark: making sense of psychedelics action on brain and behaviour in naturalistic settings"
+    },
+    {
+        "id":  "self-other",
+        "canonical_path":  "/research/projects/self-other/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Externalization of the self and internalization of the other",
+        "description":  ""
+    },
+    {
+        "id":  "skipper",
+        "canonical_path":  "/pages/skipper/",
+        "section":  "pages",
+        "subcategory":  "skipper",
+        "layout":  "page",
+        "title":  "Skipper",
+        "description":  "Cinco Sins of Psychedelic Research"
+    },
+    {
+        "id":  "somatic-cultures-ad-consciousness",
+        "canonical_path":  "/research/projects/somatic-cultures-ad-consciousness/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Somatic Cultures ad Consciousness",
+        "description":  ""
+    },
+    {
+        "id":  "symposium",
+        "canonical_path":  "/events/symposium/",
+        "section":  "events",
+        "subcategory":  "symposium",
+        "layout":  "article",
+        "title":  "Symposium",
+        "description":  ""
+    },
+    {
+        "id":  "tagliazucchi-effects-psychedelics",
+        "canonical_path":  "/research/projects/tagliazucchi_effects_psychedelics/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "How should we study the effects of psychedelic drugs",
+        "description":  ""
+    },
+    {
+        "id":  "team",
+        "canonical_path":  "/about/team/team/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Team",
+        "description":  ""
+    },
+    {
+        "id":  "team-222796",
+        "canonical_path":  "/about/team/team-222796/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Coordinators",
+        "description":  ""
+    },
+    {
+        "id":  "team-639772",
+        "canonical_path":  "/about/team/team-639772/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Team",
+        "description":  ""
+    },
+    {
+        "id":  "team-743740",
+        "canonical_path":  "/about/team/team-743740/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Team",
+        "description":  ""
+    },
+    {
+        "id":  "team-814948",
+        "canonical_path":  "/about/team/team-814948/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Team",
+        "description":  ""
+    },
+    {
+        "id":  "team-912849",
+        "canonical_path":  "/about/team/team-912849/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Team",
+        "description":  ""
+    },
+    {
+        "id":  "team-955042",
+        "canonical_path":  "/about/team/team-955042/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Research Members",
+        "description":  ""
+    },
+    {
+        "id":  "team-955042-710461",
+        "canonical_path":  "/about/team/team-955042-710461/",
+        "section":  "about",
+        "subcategory":  "team",
+        "layout":  "page",
+        "title":  "Research Members",
+        "description":  ""
+    },
+    {
+        "id":  "teamtemplate-956529",
+        "canonical_path":  "/pages/teamtemplate-956529/",
+        "section":  "pages",
+        "subcategory":  "teamtemplate-956529",
+        "layout":  "page",
+        "title":  "Team",
+        "description":  ""
+    },
+    {
+        "id":  "torus",
+        "canonical_path":  "/research/projects/torus/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "torus",
+        "description":  ""
+    },
+    {
+        "id":  "track1-600953",
+        "canonical_path":  "/media/track1-600953/",
+        "section":  "media",
+        "subcategory":  "track1-600953",
+        "layout":  "article",
+        "title":  "track1",
+        "description":  ""
+    },
+    {
+        "id":  "trauma-under-psychedelics",
+        "canonical_path":  "/research/projects/trauma_under_psychedelics/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Trauma Under Psychedelics",
+        "description":  ""
+    },
+    {
+        "id":  "travel-information",
+        "canonical_path":  "/events/travel-information/",
+        "section":  "events",
+        "subcategory":  "travel-information",
+        "layout":  "article",
+        "title":  "Travel Information",
+        "description":  ""
+    },
+    {
+        "id":  "tulpamancy-522105",
+        "canonical_path":  "/pages/tulpamancy-522105/",
+        "section":  "pages",
+        "subcategory":  "tulpamancy-522105",
+        "layout":  "page",
+        "title":  "Tulpamancy",
+        "description":  ""
+    },
+    {
+        "id":  "viscereality",
+        "canonical_path":  "/research/projects/viscereality/",
+        "section":  "research",
+        "subcategory":  "projects",
+        "layout":  "article",
+        "title":  "Altered States of Viscereality",
+        "description":  ""
+    },
+    {
+        "id":  "voix-et-visions",
+        "canonical_path":  "/pages/voix-et-visions/",
+        "section":  "pages",
+        "subcategory":  "voix-et-visions",
+        "layout":  "page",
+        "title":  "Voix et visions",
+        "description":  ""
+    },
+    {
+        "id":  "workshop-2017",
+        "canonical_path":  "/events/workshops/workshop-2017/",
+        "section":  "events",
+        "subcategory":  "workshops",
+        "layout":  "article",
+        "title":  "ALIUS Workshop 2017",
+        "description":  ""
+    },
+    {
+        "id":  "workshop-2018",
+        "canonical_path":  "/events/workshops/workshop-2018/",
+        "section":  "events",
+        "subcategory":  "workshops",
+        "layout":  "article",
+        "title":  "ALIUS Workshop 2018",
+        "description":  ""
+    }
+]

@@ -1,0 +1,494 @@
+:root {
+  --alius-refined-bg: #ffffff;
+  --alius-refined-surface: #fafafa;
+  --alius-refined-surface-2: #f3f3f3;
+  --alius-refined-border: #d8d8d8;
+  --alius-refined-border-soft: rgba(72, 72, 72, 0.14);
+  --alius-refined-text: #515151;
+  --alius-refined-muted: #7a7a7a;
+  --alius-refined-heading: #42514c;
+  --alius-refined-accent: #5199a8;
+  --alius-refined-accent-hover: #5cb0c2;
+  --alius-refined-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+body.alius-refined {
+  background: #f7f7f7;
+  color: var(--alius-refined-text);
+}
+
+body.alius-refined .body-wrap,
+body.alius-refined .bg-wrapper {
+  background: var(--alius-refined-bg);
+}
+
+body.alius-refined #header {
+  padding-top: 42px;
+  padding-bottom: 18px;
+}
+
+body.alius-refined #header .wsite-logo img {
+  max-width: min(420px, 84vw);
+  height: auto;
+}
+
+body.alius-refined #navigation {
+  padding-bottom: 28px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+}
+
+body.alius-refined #navigation:before,
+body.alius-refined #navigation:after {
+  background-color: #d6d6d6;
+}
+
+body.alius-refined #navigation ul {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+body.alius-refined #navigation li {
+  border-radius: 2px;
+}
+
+body.alius-refined #navigation a {
+  padding: 12px 14px;
+  border-radius: 2px;
+  transition: background-color 0.18s ease, color 0.18s ease, box-shadow 0.18s ease;
+}
+
+body.alius-refined #navigation li:hover,
+body.alius-refined #navigation li#active {
+  background-color: #f1f1f1;
+  box-shadow: inset 0 0 0 1px rgba(72, 72, 72, 0.05);
+}
+
+body.alius-refined #wsite-menus .wsite-menu li a {
+  border: 1px solid var(--alius-refined-border-soft);
+  background: #fbfbfb;
+  min-width: 180px;
+  padding: 10px 12px;
+}
+
+body.alius-refined #wsite-menus .wsite-menu li a:hover {
+  background: #f0f0f0;
+}
+
+body.alius-refined .alius-page-context {
+  border-top: 1px solid rgba(72, 72, 72, 0.06);
+  border-bottom: 1px solid rgba(72, 72, 72, 0.07);
+  background: linear-gradient(180deg, #fbfbfb 0%, #f7f7f7 100%);
+}
+
+body.alius-refined .alius-page-context-inner {
+  width: 960px;
+  max-width: calc(100% - 3.2em);
+  margin: 0 auto;
+  padding: 12px 0 11px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+body.alius-refined .alius-breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-family: "Raleway", sans-serif;
+  font-size: 12px;
+  color: var(--alius-refined-muted);
+  letter-spacing: 0.02em;
+}
+
+body.alius-refined .alius-breadcrumb-link {
+  color: #6f6f6f;
+}
+
+body.alius-refined .alius-breadcrumb-link:hover {
+  color: var(--alius-refined-accent);
+}
+
+body.alius-refined .alius-breadcrumb-current {
+  color: #3f3f3f;
+  font-weight: 600;
+}
+
+body.alius-refined .alius-breadcrumb-sep {
+  color: #b4b4b4;
+}
+
+body.alius-refined .alius-page-context-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+body.alius-refined .alius-page-context-pill {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(81, 153, 168, 0.22);
+  color: #4b6b73;
+  background: rgba(81, 153, 168, 0.06);
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 11px;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-family: "Raleway", sans-serif;
+}
+
+body.alius-refined .alius-subcategory-pill {
+  border-color: rgba(72, 72, 72, 0.12);
+  background: rgba(72, 72, 72, 0.04);
+  color: #676767;
+}
+
+body.alius-refined #content-wrapper .container {
+  padding-top: 3.25em;
+  padding-bottom: 3.25em;
+}
+
+body.alius-refined #wsite-content div.paragraph,
+body.alius-refined #wsite-content p {
+  line-height: 1.68;
+}
+
+body.alius-refined #wsite-content h2.wsite-content-title,
+body.alius-refined #wsite-content h2 {
+  margin-bottom: 0.55em;
+  color: var(--alius-refined-heading);
+}
+
+body.alius-refined #wsite-content a {
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.12em;
+}
+
+body.alius-refined #wsite-content a:hover {
+  text-decoration: underline;
+}
+
+body.alius-refined .wsite-button,
+body.alius-refined .wsite-editor .wsite-button {
+  border-radius: 2px;
+  box-shadow: 0 6px 16px rgba(81, 153, 168, 0.18);
+}
+
+body.alius-refined .wsite-button-highlight:hover,
+body.alius-refined .wsite-editor .wsite-button-highlight:hover {
+  background-color: var(--alius-refined-accent-hover);
+}
+
+body.alius-refined .wsite-image img {
+  border-radius: 2px;
+}
+
+body.alius-refined #wsite-content iframe,
+body.alius-refined #wsite-content video {
+  max-width: 100%;
+}
+
+body.alius-refined .styled-hr {
+  opacity: 0.7;
+}
+
+body.alius-refined .alius-home-explore {
+  background: linear-gradient(180deg, #fcfcfc 0%, #f8f8f8 100%);
+  border-top: 1px solid rgba(72, 72, 72, 0.06);
+  border-bottom: 1px solid rgba(72, 72, 72, 0.06);
+}
+
+body.alius-refined .alius-home-explore-container {
+  padding-top: 2.8em;
+  padding-bottom: 2.8em;
+}
+
+body.alius-refined .alius-home-explore-header {
+  margin-bottom: 1.35em;
+}
+
+body.alius-refined .alius-home-explore-title {
+  font-family: "Playfair Display", serif;
+  color: var(--alius-refined-heading);
+  margin: 0 0 8px;
+  font-size: 31px;
+  letter-spacing: 0.01em;
+}
+
+body.alius-refined .alius-home-explore-subtitle {
+  margin: 0;
+  max-width: 720px;
+  color: #666;
+  font-family: "Gentium Basic", serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+body.alius-refined .alius-home-explore-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+body.alius-refined .alius-home-card {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: 8px;
+  padding: 16px 16px 14px;
+  border: 1px solid rgba(72, 72, 72, 0.09);
+  background: rgba(255, 255, 255, 0.92);
+  color: inherit;
+  border-radius: 2px;
+  min-height: 122px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.02);
+  text-decoration: none;
+  transition: transform 0.14s ease, box-shadow 0.14s ease, border-color 0.14s ease;
+}
+
+body.alius-refined .alius-home-card:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--alius-refined-shadow);
+  border-color: rgba(81, 153, 168, 0.22);
+  text-decoration: none;
+}
+
+body.alius-refined .alius-home-card-label {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  color: #404040;
+}
+
+body.alius-refined .alius-home-card-desc {
+  font-family: "Gentium Basic", serif;
+  color: #616161;
+  line-height: 1.45;
+  font-size: 16px;
+}
+
+body.alius-refined .alius-home-card-cta {
+  font-family: "Raleway", sans-serif;
+  color: var(--alius-refined-accent);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+body.alius-refined .alius-section-links {
+  margin: 1.25em 0 1.5em;
+  border: 1px solid rgba(72, 72, 72, 0.08);
+  background: #fbfbfb;
+  border-radius: 2px;
+}
+
+body.alius-refined .alius-section-links-inner {
+  padding: 14px 16px 16px;
+}
+
+body.alius-refined .alius-section-links-title {
+  margin: 0 0 12px;
+  color: var(--alius-refined-heading);
+  font-family: "Raleway", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+}
+
+body.alius-refined .alius-section-links-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+body.alius-refined .alius-section-link {
+  display: block;
+  border: 1px solid rgba(72, 72, 72, 0.07);
+  background: #ffffff;
+  padding: 10px 12px;
+  border-radius: 2px;
+  color: inherit;
+  text-decoration: none;
+}
+
+body.alius-refined .alius-section-link:hover {
+  border-color: rgba(81, 153, 168, 0.22);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.03);
+  text-decoration: none;
+}
+
+body.alius-refined .alius-section-link-title {
+  display: block;
+  color: #444;
+  font-family: "Raleway", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 4px;
+}
+
+body.alius-refined .alius-section-link-desc {
+  display: block;
+  color: #6b6b6b;
+  font-family: "Gentium Basic", serif;
+  line-height: 1.4;
+}
+
+body.alius-refined .alius-page-toc {
+  margin: 0 0 1.5em;
+  border: 1px solid rgba(72, 72, 72, 0.08);
+  background: linear-gradient(180deg, #fbfbfb 0%, #f7f7f7 100%);
+  border-radius: 2px;
+}
+
+body.alius-refined .alius-page-toc-inner {
+  padding: 12px 14px 13px;
+}
+
+body.alius-refined .alius-page-toc-title {
+  margin: 0 0 10px;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-size: 12px;
+  color: #4b4b4b;
+}
+
+body.alius-refined .alius-page-toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 12px;
+}
+
+body.alius-refined .alius-page-toc-list a {
+  display: block;
+  color: #5d5d5d;
+  text-decoration: none;
+  line-height: 1.25;
+}
+
+body.alius-refined .alius-page-toc-list a:hover {
+  color: var(--alius-refined-accent);
+  text-decoration: underline;
+}
+
+body.alius-refined .alius-page-toc-list li {
+  min-width: 0;
+}
+
+body.alius-refined .alius-page-toc-list li a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+body.alius-refined .alius-focus-ring:focus,
+body.alius-refined a:focus,
+body.alius-refined button:focus,
+body.alius-refined [tabindex]:focus {
+  outline: 2px solid rgba(81, 153, 168, 0.45);
+  outline-offset: 2px;
+}
+
+@media (max-width: 1024px) {
+  body.alius-refined #header {
+    padding-top: 34px;
+  }
+
+  body.alius-refined .alius-page-context-inner {
+    max-width: calc(100% - 2.2em);
+  }
+
+  body.alius-refined .alius-home-explore-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 992px) {
+  body.alius-refined #header {
+    box-shadow: 0 1px 0 rgba(72, 72, 72, 0.08);
+  }
+
+  body.alius-refined .navmobile-wrapper {
+    background: #ffffff;
+    border-right: 1px solid rgba(72, 72, 72, 0.08);
+    box-shadow: 8px 0 24px rgba(0, 0, 0, 0.08);
+  }
+
+  body.alius-refined #navmobile {
+    margin: 0 12px;
+    font-size: 0.92em;
+  }
+
+  body.alius-refined #navmobile ul {
+    width: 100% !important;
+  }
+
+  body.alius-refined .wsite-menu-default a,
+  body.alius-refined .wsite-menu a {
+    padding: 12px 10px;
+    border-bottom: 1px solid rgba(72, 72, 72, 0.05);
+  }
+
+  body.alius-refined .alius-page-context-inner {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  body.alius-refined .alius-page-context-meta {
+    margin-top: 9px;
+  }
+
+  body.alius-refined #content-wrapper .container {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+  }
+
+  body.alius-refined .alius-page-toc-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 767px) {
+  body.alius-refined #header {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  body.alius-refined .alius-breadcrumbs {
+    font-size: 11px;
+    gap: 6px;
+  }
+
+  body.alius-refined .alius-home-explore-container {
+    padding-top: 2.2em;
+    padding-bottom: 2.2em;
+  }
+
+  body.alius-refined .alius-home-explore-title {
+    font-size: 24px;
+  }
+
+  body.alius-refined .alius-home-explore-subtitle {
+    font-size: 16px;
+  }
+
+  body.alius-refined .alius-home-explore-grid,
+  body.alius-refined .alius-section-links-grid {
+    grid-template-columns: 1fr;
+  }
+
+  body.alius-refined .alius-home-card {
+    min-height: 0;
+  }
+}

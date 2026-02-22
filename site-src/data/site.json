@@ -4,5 +4,10 @@
     "generated_utc":  "2026-02-22T15:52:32.9992695Z",
     "page_count":  145,
     "canonical_url_strategy":  "hierarchical+redirects",
-    "github_pages_project_base_path":  "/aliusresearch.org"
+    "github_pages_project_base_path":  "/aliusresearch.org",
+    "public_base_path":  "/aliusresearch.org",
+    "deploy_mode":  "github-project",
+    "canonical_domain":  "https://aliusresearchgroup.github.io/aliusresearch.org",
+    "theme_variant":  "alius-classic-refined",
+    "design_version":  "0.1.0"
 }
