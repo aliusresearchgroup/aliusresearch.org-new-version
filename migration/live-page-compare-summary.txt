@@ -1,0 +1,13 @@
+Generated UTC: 2026-02-22T17:17:44.4335846Z
+Base URL: https://www.aliusresearch.org
+Pages in manifest: 145
+Live fetches attempted: 145
+Live 200 responses: 145
+Live fetch failures/non-200: 0
+Title mismatches: 0
+Body class mismatches: 0
+Desktop nav mismatches: 7
+Mobile nav mismatches: 145
+Visual structure mismatches (normalized): 145
+Pages fully matched on all checks: 0
+CSV report: C:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\migration\live-page-compare.csv

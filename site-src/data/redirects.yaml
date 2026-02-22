@@ -344,7 +344,7 @@
   to: "/research/"
   type: "legacy-html-page"
 - from: "/research1.html"
-  to: "/research/"
+  to: "/research/research1/"
   type: "legacy-html-page"
 - from: "/researcher-members.html"
   to: "/community/researcher-members/"

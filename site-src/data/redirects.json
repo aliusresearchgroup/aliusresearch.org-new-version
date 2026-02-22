@@ -576,7 +576,7 @@
     },
     {
         "from":  "/research1.html",
-        "to":  "/research/",
+        "to":  "/research/research1/",
         "type":  "legacy-html-page"
     },
     {

@@ -456,6 +456,6 @@ else {
     [void]$mdLines.Add(("* `{0}` -> `{1}` : {2}" -f $r.legacy_path, $r.canonical_path, ($checks -join ", ")))
   }
 }
-Write-LinesUtf8NoBom -Path (Join-Path $migrationRoot "live-page-compare.md") -Lines ($mdLines.ToArray())
+Write-TextFileUtf8NoBom -Path (Join-Path $migrationRoot "live-page-compare.md") -Content (($mdLines.ToArray()) -join [Environment]::NewLine)
 
 Write-Output ("Compared {0} pages against live site ({1} OK fetches). Visual mismatches: {2}. Desktop nav mismatches: {3}. Mobile nav mismatches: {4}." -f $total, $ok200, $visualMismatches, $navDesktopMismatches, $navMobileMismatches)
