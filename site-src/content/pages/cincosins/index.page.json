@@ -1,0 +1,22 @@
+﻿{
+    "id":  "cincosins",
+    "legacy_path":  "cincosins.html",
+    "legacy_name":  "cincosins",
+    "canonical_path":  "/pages/cincosins/",
+    "title":  "Cinco Sins of Psychedelic Research - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "cincosins",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/cincosins/body.html",
+    "head_fragment":  "content/pages/cincosins/head.raw.html",
+    "source_html":  "content/pages/cincosins/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-cincosins  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

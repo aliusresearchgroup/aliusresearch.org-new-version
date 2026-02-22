@@ -1,0 +1,22 @@
+﻿{
+    "id":  "trauma-under-psychedelics",
+    "legacy_path":  "trauma_under_psychedelics.html",
+    "legacy_name":  "trauma_under_psychedelics",
+    "canonical_path":  "/research/projects/trauma_under_psychedelics/",
+    "title":  "Trauma Under Psychedelics - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/trauma_under_psychedelics/body.html",
+    "head_fragment":  "content/research/projects/trauma_under_psychedelics/head.raw.html",
+    "source_html":  "content/research/projects/trauma_under_psychedelics/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-trauma_under_psychedelics  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "episodes",
+    "legacy_path":  "episodes.html",
+    "legacy_name":  "episodes",
+    "canonical_path":  "/media/episodes/",
+    "title":  "Episodes - Alius",
+    "description":  "",
+    "section":  "media",
+    "subcategory":  "episodes",
+    "layout":  "article",
+    "nav_group":  "media",
+    "order":  0,
+    "body_fragment":  "content/media/episodes/body.html",
+    "head_fragment":  "content/media/episodes/head.raw.html",
+    "source_html":  "content/media/episodes/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-episodes  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

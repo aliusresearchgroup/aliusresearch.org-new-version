@@ -1,0 +1,22 @@
+﻿{
+    "id":  "travel-information",
+    "legacy_path":  "travel-information.html",
+    "legacy_name":  "travel-information",
+    "canonical_path":  "/events/travel-information/",
+    "title":  "Travel Information - Alius",
+    "description":  "",
+    "section":  "events",
+    "subcategory":  "travel-information",
+    "layout":  "article",
+    "nav_group":  "events",
+    "order":  0,
+    "body_fragment":  "content/events/travel-information/body.html",
+    "head_fragment":  "content/events/travel-information/head.raw.html",
+    "source_html":  "content/events/travel-information/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-travel-information  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

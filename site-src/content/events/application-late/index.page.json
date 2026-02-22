@@ -1,0 +1,22 @@
+﻿{
+    "id":  "application-late",
+    "legacy_path":  "application-late.html",
+    "legacy_name":  "application-late",
+    "canonical_path":  "/events/application-late/",
+    "title":  "application-late - Alius",
+    "description":  "",
+    "section":  "events",
+    "subcategory":  "application-late",
+    "layout":  "article",
+    "nav_group":  "events",
+    "order":  0,
+    "body_fragment":  "content/events/application-late/body.html",
+    "head_fragment":  "content/events/application-late/head.raw.html",
+    "source_html":  "content/events/application-late/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-application-late  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

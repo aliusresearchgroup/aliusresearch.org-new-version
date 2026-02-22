@@ -1,0 +1,22 @@
+﻿{
+    "id":  "qualius-program",
+    "legacy_path":  "qualius-program.html",
+    "legacy_name":  "qualius-program",
+    "canonical_path":  "/research/projects/qualius-program/",
+    "title":  "Program Information - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/qualius-program/body.html",
+    "head_fragment":  "content/research/projects/qualius-program/head.raw.html",
+    "source_html":  "content/research/projects/qualius-program/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-qualius-program  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

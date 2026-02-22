@@ -1,0 +1,22 @@
+﻿{
+    "id":  "link-page",
+    "legacy_path":  "link-page.html",
+    "legacy_name":  "link-page",
+    "canonical_path":  "/pages/link-page/",
+    "title":  "Link Page - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "link-page",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/link-page/body.html",
+    "head_fragment":  "content/pages/link-page/head.raw.html",
+    "source_html":  "content/pages/link-page/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"header-page  wsite-page-link-page  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,13 @@
+Generated UTC: 2026-02-22T16:41:45.3856921Z
+ffmpeg_available: False
+mode: static-gif-fallback (PowerShell/.NET first-frame replacement)
+gif_files_considered: 28
+gif_files_processed: 28
+gif_bytes_saved: 503682129
+gif_mb_saved: 480.35
+max_dimension: 1920
+process_all_gifs: True
+backup_enabled: True
+backup_root: C:\Users\cogpsy-vrlab\Proton Drive\George.Fejer\My files\aliusresearch.org-originals
+report_csv: migration/gif-static-optimization.csv
+note: ffmpeg not found, so GIF->video conversion was not run. Static GIF fallback was applied instead.

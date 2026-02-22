@@ -1,0 +1,22 @@
+﻿{
+    "id":  "membership-renewal-178580",
+    "legacy_path":  "membership-renewal-178580.html",
+    "legacy_name":  "membership-renewal-178580",
+    "canonical_path":  "/community/membership-renewal-178580/",
+    "title":  "Researcher Membership - Alius",
+    "description":  "",
+    "section":  "community",
+    "subcategory":  "membership-renewal-178580",
+    "layout":  "page",
+    "nav_group":  "community",
+    "order":  0,
+    "body_fragment":  "content/community/membership-renewal-178580/body.html",
+    "head_fragment":  "content/community/membership-renewal-178580/head.raw.html",
+    "source_html":  "content/community/membership-renewal-178580/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-membership-renewal-178580  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

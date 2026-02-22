@@ -1,0 +1,22 @@
+﻿{
+    "id":  "cultural-shaping-of-consciousness",
+    "legacy_path":  "cultural-shaping-of-consciousness.html",
+    "legacy_name":  "cultural-shaping-of-consciousness",
+    "canonical_path":  "/research/projects/cultural-shaping-of-consciousness/",
+    "title":  "The Cultural Shaping of Consciousness - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/cultural-shaping-of-consciousness/body.html",
+    "head_fragment":  "content/research/projects/cultural-shaping-of-consciousness/head.raw.html",
+    "source_html":  "content/research/projects/cultural-shaping-of-consciousness/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-cultural-shaping-of-consciousness  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

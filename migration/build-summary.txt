@@ -1,0 +1,5 @@
+Generated UTC: 2026-02-22T16:45:33.7194076Z
+Docs output: C:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\docs
+Canonical pages written: 145
+Static root copied: C:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\site-src\static
+Redirect stubs: 144

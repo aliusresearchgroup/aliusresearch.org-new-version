@@ -1,0 +1,9 @@
+Source asset files: 1262
+Unique hash groups: 529
+Duplicate hash groups: 193
+Potential exact duplicate savings: 669326823
+Live asset mappings: 1626
+Live included assets: 1384
+Excluded/unreferenced assets: 242
+Backed up excluded/duplicate files: 935
+Generated UTC: 2026-02-22T16:33:29.0582976Z

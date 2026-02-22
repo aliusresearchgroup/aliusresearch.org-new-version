@@ -1,0 +1,22 @@
+﻿{
+    "id":  "workshop-2017",
+    "legacy_path":  "workshop-2017.html",
+    "legacy_name":  "workshop-2017",
+    "canonical_path":  "/events/workshops/workshop-2017/",
+    "title":  "ALIUS Workshop 2017 - Alius",
+    "description":  "",
+    "section":  "events",
+    "subcategory":  "workshops",
+    "layout":  "article",
+    "nav_group":  "events",
+    "order":  0,
+    "body_fragment":  "content/events/workshops/workshop-2017/body.html",
+    "head_fragment":  "content/events/workshops/workshop-2017/head.raw.html",
+    "source_html":  "content/events/workshops/workshop-2017/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-workshop-2017  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

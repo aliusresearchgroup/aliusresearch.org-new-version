@@ -1,0 +1,22 @@
+﻿{
+    "id":  "jeanremy-martin-intro",
+    "legacy_path":  "jeanremy-martin-intro.html",
+    "legacy_name":  "jeanremy-martin-intro",
+    "canonical_path":  "/pages/jeanremy-martin-intro/",
+    "title":  "Introducing Jean-R\u0026eacute;my Martin - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "jeanremy-martin-intro",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/jeanremy-martin-intro/body.html",
+    "head_fragment":  "content/pages/jeanremy-martin-intro/head.raw.html",
+    "source_html":  "content/pages/jeanremy-martin-intro/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-jeanremy-martin-intro  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

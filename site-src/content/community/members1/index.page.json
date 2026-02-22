@@ -1,0 +1,22 @@
+﻿{
+    "id":  "members1",
+    "legacy_path":  "members1.html",
+    "legacy_name":  "members1",
+    "canonical_path":  "/community/members1/",
+    "title":  "members - Alius",
+    "description":  "",
+    "section":  "community",
+    "subcategory":  "members1",
+    "layout":  "page",
+    "nav_group":  "community",
+    "order":  0,
+    "body_fragment":  "content/community/members1/body.html",
+    "head_fragment":  "content/community/members1/head.raw.html",
+    "source_html":  "content/community/members1/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-members1  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

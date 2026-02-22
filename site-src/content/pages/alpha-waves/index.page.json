@@ -1,0 +1,22 @@
+﻿{
+    "id":  "alpha-waves",
+    "legacy_path":  "alpha-waves.html",
+    "legacy_name":  "alpha-waves",
+    "canonical_path":  "/pages/alpha-waves/",
+    "title":  "Waves beyond waveforms - Alius",
+    "description":  "Waves beyond waveforms:\n(Mis)interpretation of alpha oscillations\nin cognitive neuroscience",
+    "section":  "pages",
+    "subcategory":  "alpha-waves",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/alpha-waves/body.html",
+    "head_fragment":  "content/pages/alpha-waves/head.raw.html",
+    "source_html":  "content/pages/alpha-waves/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-alpha-waves  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

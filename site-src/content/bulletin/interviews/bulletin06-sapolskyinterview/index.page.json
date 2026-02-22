@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin06-sapolskyinterview",
+    "legacy_path":  "bulletin06-sapolskyinterview.html",
+    "legacy_name":  "bulletin06-sapolskyinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin06-sapolskyinterview/",
+    "title":  "Sapolsky - Alius Bulletin n\u0026deg;6 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin06-sapolskyinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin06-sapolskyinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin06-sapolskyinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin06-sapolskyinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "froese",
+    "legacy_path":  "froese.html",
+    "legacy_name":  "froese",
+    "canonical_path":  "/pages/froese/",
+    "title":  "Froese - Alius",
+    "description":  "The irruption theory: How mind and matter meet along the route to consciousness",
+    "section":  "pages",
+    "subcategory":  "froese",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/froese/body.html",
+    "head_fragment":  "content/pages/froese/head.raw.html",
+    "source_html":  "content/pages/froese/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-froese  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

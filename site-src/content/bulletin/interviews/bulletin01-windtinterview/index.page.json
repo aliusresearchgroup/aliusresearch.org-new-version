@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin01-windtinterview",
+    "legacy_path":  "bulletin01-windtinterview.html",
+    "legacy_name":  "bulletin01-windtinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin01-windtinterview/",
+    "title":  "Jennifer Windt - Alius Bulletin n\u0026deg;1 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin01-windtinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin01-windtinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin01-windtinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin01-windtinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

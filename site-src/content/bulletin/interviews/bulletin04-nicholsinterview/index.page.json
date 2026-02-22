@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin04-nicholsinterview",
+    "legacy_path":  "bulletin04-nicholsinterview.html",
+    "legacy_name":  "bulletin04-nicholsinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin04-nicholsinterview/",
+    "title":  "Nichols \u0026amp; Nichols - Alius Bulletin n\u0026deg;4 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin04-nicholsinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin04-nicholsinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin04-nicholsinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin04-nicholsinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

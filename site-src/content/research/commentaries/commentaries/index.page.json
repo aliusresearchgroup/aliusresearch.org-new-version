@@ -1,0 +1,22 @@
+﻿{
+    "id":  "commentaries",
+    "legacy_path":  "commentaries.html",
+    "legacy_name":  "commentaries",
+    "canonical_path":  "/research/commentaries/commentaries/",
+    "title":  "Commentaries - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "commentaries",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/commentaries/commentaries/body.html",
+    "head_fragment":  "content/research/commentaries/commentaries/head.raw.html",
+    "source_html":  "content/research/commentaries/commentaries/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-commentaries  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

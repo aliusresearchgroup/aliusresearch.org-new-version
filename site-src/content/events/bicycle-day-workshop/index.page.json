@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bicycle-day-workshop",
+    "legacy_path":  "bicycle-day-workshop.html",
+    "legacy_name":  "bicycle-day-workshop",
+    "canonical_path":  "/events/bicycle-day-workshop/",
+    "title":  "Bicycle Day Workshop - Alius",
+    "description":  "",
+    "section":  "events",
+    "subcategory":  "bicycle-day-workshop",
+    "layout":  "article",
+    "nav_group":  "events",
+    "order":  0,
+    "body_fragment":  "content/events/bicycle-day-workshop/body.html",
+    "head_fragment":  "content/events/bicycle-day-workshop/head.raw.html",
+    "source_html":  "content/events/bicycle-day-workshop/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bicycle-day-workshop  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

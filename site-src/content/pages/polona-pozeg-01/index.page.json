@@ -1,0 +1,22 @@
+﻿{
+    "id":  "polona-pozeg-01",
+    "legacy_path":  "polona-pozeg-01.html",
+    "legacy_name":  "polona-pozeg-01",
+    "canonical_path":  "/pages/polona-pozeg-01/",
+    "title":  "Polona Pozeg - Bodily foundations of the sense of self - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "polona-pozeg-01",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/polona-pozeg-01/body.html",
+    "head_fragment":  "content/pages/polona-pozeg-01/head.raw.html",
+    "source_html":  "content/pages/polona-pozeg-01/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-polona-pozeg-01  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

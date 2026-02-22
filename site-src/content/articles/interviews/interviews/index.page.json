@@ -1,0 +1,22 @@
+﻿{
+    "id":  "interviews",
+    "legacy_path":  "interviews.html",
+    "legacy_name":  "interviews",
+    "canonical_path":  "/articles/interviews/interviews/",
+    "title":  "Interviews - Alius",
+    "description":  "",
+    "section":  "articles",
+    "subcategory":  "interviews",
+    "layout":  "page",
+    "nav_group":  "articles",
+    "order":  0,
+    "body_fragment":  "content/articles/interviews/interviews/body.html",
+    "head_fragment":  "content/articles/interviews/interviews/head.raw.html",
+    "source_html":  "content/articles/interviews/interviews/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-interviews  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

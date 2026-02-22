@@ -1,0 +1,22 @@
+﻿{
+    "id":  "peripersonal",
+    "legacy_path":  "peripersonal.html",
+    "legacy_name":  "peripersonal",
+    "canonical_path":  "/research/projects/peripersonal/",
+    "title":  "Peripersonal Space - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/peripersonal/body.html",
+    "head_fragment":  "content/research/projects/peripersonal/head.raw.html",
+    "source_html":  "content/research/projects/peripersonal/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-peripersonal  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

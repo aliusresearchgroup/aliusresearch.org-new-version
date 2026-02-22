@@ -1,0 +1,22 @@
+﻿{
+    "id":  "become-a-member",
+    "legacy_path":  "become-a-member.html",
+    "legacy_name":  "become-a-member",
+    "canonical_path":  "/community/become-a-member/",
+    "title":  "Become a member - Alius",
+    "description":  "ALIUS Research Group was created to study all aspects of consciousness, with a specific focus on unusual or understudied conscious states traditionally classified as Altered States of Consciousness (ASCs).",
+    "section":  "community",
+    "subcategory":  "become-a-member",
+    "layout":  "page",
+    "nav_group":  "community",
+    "order":  0,
+    "body_fragment":  "content/community/become-a-member/body.html",
+    "head_fragment":  "content/community/become-a-member/head.raw.html",
+    "source_html":  "content/community/become-a-member/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-become-a-member  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

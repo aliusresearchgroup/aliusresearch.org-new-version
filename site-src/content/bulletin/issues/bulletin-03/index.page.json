@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin03",
+    "legacy_path":  "bulletin03.html",
+    "legacy_name":  "bulletin03",
+    "canonical_path":  "/bulletin/issues/bulletin-03/",
+    "title":  "Bulletin Issue n\u0026deg;3 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "issues",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/issues/bulletin-03/body.html",
+    "head_fragment":  "content/bulletin/issues/bulletin-03/head.raw.html",
+    "source_html":  "content/bulletin/issues/bulletin-03/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin03  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

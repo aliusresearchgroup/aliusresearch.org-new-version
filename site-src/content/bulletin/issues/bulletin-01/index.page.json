@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin01",
+    "legacy_path":  "bulletin01.html",
+    "legacy_name":  "bulletin01",
+    "canonical_path":  "/bulletin/issues/bulletin-01/",
+    "title":  "Bulletin Issue n\u0026deg;1 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "issues",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/issues/bulletin-01/body.html",
+    "head_fragment":  "content/bulletin/issues/bulletin-01/head.raw.html",
+    "source_html":  "content/bulletin/issues/bulletin-01/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin01  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

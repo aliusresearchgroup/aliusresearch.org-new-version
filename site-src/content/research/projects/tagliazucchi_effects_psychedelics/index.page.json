@@ -1,0 +1,22 @@
+﻿{
+    "id":  "tagliazucchi-effects-psychedelics",
+    "legacy_path":  "tagliazucchi_effects_psychedelics.html",
+    "legacy_name":  "tagliazucchi_effects_psychedelics",
+    "canonical_path":  "/research/projects/tagliazucchi_effects_psychedelics/",
+    "title":  "How should we study the effects of psychedelic drugs - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/tagliazucchi_effects_psychedelics/body.html",
+    "head_fragment":  "content/research/projects/tagliazucchi_effects_psychedelics/head.raw.html",
+    "source_html":  "content/research/projects/tagliazucchi_effects_psychedelics/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-tagliazucchi_effects_psychedelics  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

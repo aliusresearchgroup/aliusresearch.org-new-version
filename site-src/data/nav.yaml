@@ -1,0 +1,2 @@
+# Placeholder nav data for future template-driven nav rendering.
+# Current build preserves page HTML and rewrites links; nav extraction artifacts are in site-src/partials/*.raw.html

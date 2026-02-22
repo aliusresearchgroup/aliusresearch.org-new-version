@@ -1,0 +1,8 @@
+Extracted Weebly export into GitHub Pages deploy folder
+ZIP archive: c:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\897210165153652097-1771703083.zip
+Stripped wrapper folder: 1054327522699a091f1fb90
+Deploy path: c:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\docs
+Files extracted: 1407
+Directories created: 16
+Total file bytes: 1798999230
+Generated UTC: 2026-02-22T14:13:25.2556543Z

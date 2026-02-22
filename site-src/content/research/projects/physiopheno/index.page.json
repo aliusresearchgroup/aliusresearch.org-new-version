@@ -1,0 +1,22 @@
+﻿{
+    "id":  "physiopheno",
+    "legacy_path":  "physiopheno.html",
+    "legacy_name":  "physiopheno",
+    "canonical_path":  "/research/projects/physiopheno/",
+    "title":  "Physiophenomenology - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/physiopheno/body.html",
+    "head_fragment":  "content/research/projects/physiopheno/head.raw.html",
+    "source_html":  "content/research/projects/physiopheno/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-physiopheno  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

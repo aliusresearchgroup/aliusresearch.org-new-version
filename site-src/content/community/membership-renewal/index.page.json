@@ -1,0 +1,22 @@
+﻿{
+    "id":  "membership-renewal",
+    "legacy_path":  "membership-renewal.html",
+    "legacy_name":  "membership-renewal",
+    "canonical_path":  "/community/membership-renewal/",
+    "title":  "Membership Tiers - Alius",
+    "description":  "",
+    "section":  "community",
+    "subcategory":  "membership-renewal",
+    "layout":  "page",
+    "nav_group":  "community",
+    "order":  0,
+    "body_fragment":  "content/community/membership-renewal/body.html",
+    "head_fragment":  "content/community/membership-renewal/head.raw.html",
+    "source_html":  "content/community/membership-renewal/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-membership-renewal  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

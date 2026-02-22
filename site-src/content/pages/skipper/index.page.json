@@ -1,0 +1,22 @@
+﻿{
+    "id":  "skipper",
+    "legacy_path":  "skipper.html",
+    "legacy_name":  "skipper",
+    "canonical_path":  "/pages/skipper/",
+    "title":  "Skipper - Alius",
+    "description":  "Cinco Sins of Psychedelic Research",
+    "section":  "pages",
+    "subcategory":  "skipper",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/skipper/body.html",
+    "head_fragment":  "content/pages/skipper/head.raw.html",
+    "source_html":  "content/pages/skipper/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-skipper  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

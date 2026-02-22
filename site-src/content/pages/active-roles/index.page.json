@@ -1,0 +1,22 @@
+﻿{
+    "id":  "active-roles",
+    "legacy_path":  "active-roles.html",
+    "legacy_name":  "active-roles",
+    "canonical_path":  "/pages/active-roles/",
+    "title":  "Active Roles - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "active-roles",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/active-roles/body.html",
+    "head_fragment":  "content/pages/active-roles/head.raw.html",
+    "source_html":  "content/pages/active-roles/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-active-roles  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

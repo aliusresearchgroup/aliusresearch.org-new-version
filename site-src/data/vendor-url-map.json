@@ -1,0 +1,1208 @@
+﻿[
+    {
+        "external_url":  "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/css/old/fancybox.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/css/old/fancybox.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/css/old/slideshow/slideshow.css?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/css/old/slideshow/slideshow.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/css/old/slideshow/slideshow.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/css/sites.css?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/css/sites.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/css/sites.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/css/sites.css?buildtime=1234#",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/css/sites.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/css/sites.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/css/social-icons.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/css/social-icons.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?123597#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?321123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.ttf?123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.woff?123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Light/267447_4_0.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?#iefix123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.ttf?123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.woff?123597",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/fonts/Proxima-Semibold/267447_5_0.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/blank.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/blank.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/blank.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-button.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-button.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-button.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-field-bg.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-field-bg.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-field-bg.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-header.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-header.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-header.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-header-author.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-header-author.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-header-author.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-link.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-link.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-link.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-pointer.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-pointer.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-pointer.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/blog-comment-pointer-author.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-pointer-author.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/blog-comment-pointer-author.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/dark-blog-comment-header.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-header.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-header.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/dark-blog-comment-header-author.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-header-author.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-header-author.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/dark-blog-comment-link.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-link.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-link.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/dark-blog-comment-pointer.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-pointer.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-pointer.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/blog/dark-blog-comment-pointer-author.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-pointer-author.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/blog/dark-blog-comment-pointer-author.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/buttons/large_blue.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/buttons/large_blue.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/buttons/large_blue.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/buttons/small_blue.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/buttons/small_blue.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/buttons/small_blue.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/buttons/small_grey.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/buttons/small_grey.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/buttons/small_grey.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/checkmarks/@2x/checkmark-mini.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/checkmarks/@2x/checkmark-mini.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/checkmarks/@2x/checkmark-mini.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/checkmarks/checkmark-mini.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/checkmarks/checkmark-mini.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/checkmarks/checkmark-mini.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/form_input_bg.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/form_input_bg.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/form_input_bg.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/lightbox/nextlabel.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/lightbox/nextlabel.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/lightbox/nextlabel.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/lightbox/prevlabel.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/lightbox/prevlabel.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/lightbox/prevlabel.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/magnifying-glass.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/magnifying-glass.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/magnifying-glass.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/search-light.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/search-light.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/search-light.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/search-pagination-bg.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/search-pagination-bg.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/search-pagination-bg.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/common/social_icons.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/common/social_icons.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/common/social_icons.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/loading.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/loading.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/loading.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/button/large_grey.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/button/large_grey.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/button/large_grey.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/fancybox/blank.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/blank.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/blank.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/fancybox/fancybox_loading.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/fancybox_loading.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/fancybox_loading.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/fancybox/fancybox_overlay.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/fancybox_overlay.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/fancybox_overlay.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/fancybox/fancybox_sprite.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/fancybox_sprite.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/fancybox/fancybox_sprite.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/loading.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/loading.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/loading.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/photoswipe/error.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/error.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/error.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/photoswipe/icons.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/icons.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/icons.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/photoswipe/icons@2x.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/icons@2x.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/icons@2x.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/photoswipe/loader.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/loader.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/photoswipe/loader.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/slideshow/control_icons.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/slideshow/control_icons.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/slideshow/control_icons.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/slideshow/header_slideshow_sprites.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/slideshow/header_slideshow_sprites.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/slideshow/header_slideshow_sprites.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/old/slideshow/header_slideshow_sprites1x.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/old/slideshow/header_slideshow_sprites1x.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/old/slideshow/header_slideshow_sprites1x.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/site/checkout/@2x/credit-cards.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/@2x/credit-cards.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/@2x/credit-cards.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/site/checkout/@2x/paypal.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/@2x/paypal.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/@2x/paypal.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/site/checkout/credit-cards.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/credit-cards.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/credit-cards.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/site/checkout/paypal.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/paypal.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/paypal.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/site/checkout/print.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/print.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/print.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/site/checkout/print@2x.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/print@2x.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/site/checkout/print@2x.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/general/blank.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/blank.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/blank.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/general/bottom-triangle-000.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/bottom-triangle-000.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/bottom-triangle-000.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/general/bottom-triangle-000@2x.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/bottom-triangle-000@2x.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/bottom-triangle-000@2x.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/general/top-triangle-000.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/top-triangle-000.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/top-triangle-000.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/general/top-triangle-000@2x.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/top-triangle-000@2x.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/general/top-triangle-000@2x.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/inputs/search-input-bg.jpg",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/inputs/search-input-bg.jpg",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/inputs/search-input-bg.jpg",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/loading-white-w24.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/loading-white-w24.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/loading-white-w24.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/spinner/spinner-dark.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/spinner/spinner-dark.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/spinner/spinner-dark.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/spinner/spinner-light.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/spinner/spinner-light.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/spinner/spinner-light.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/blue-bar.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/blue-bar.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/blue-bar.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/gradient.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/gradient.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/gradient.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/loading-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/loading-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/loading-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/maximize-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/maximize-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/maximize-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/minimize-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/minimize-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/minimize-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/play-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/play-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/play-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/sad-face.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/sad-face.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/sad-face.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/volume-filled.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/volume-filled.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/volume-filled.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/volume-mute.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/volume-mute.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/volume-mute.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/@2x/white-bar.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/white-bar.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/@2x/white-bar.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/blue-bar.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/blue-bar.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/blue-bar.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/gradient.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/gradient.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/gradient.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/loading-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/loading-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/loading-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/maximize-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/maximize-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/maximize-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/minimize-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/minimize-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/minimize-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/play-icon.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/play-icon.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/play-icon.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/sad-face.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/sad-face.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/sad-face.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/volume-filled.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/volume-filled.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/volume-filled.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/volume-mute.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/volume-mute.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/volume-mute.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/util/videojs/white-bar.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/white-bar.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/util/videojs/white-bar.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/vendor/select2/select2.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/vendor/select2/select2.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/vendor/select2/select2.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/vendor/select2/select2-spinner.gif",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/vendor/select2/select2-spinner.gif",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/vendor/select2/select2-spinner.gif",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/images/vendor/select2/select2x2.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/images/vendor/select2/select2x2.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/images/vendor/select2/select2x2.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/js/jquery-1.8.3.min.js",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/js/jquery-1.8.3.min.js",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/js/jquery-1.8.3.min.js",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/js/old/slideshow-jq.js?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/js/old/slideshow-jq.js",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/js/old/slideshow-jq.js",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/js/site/main.js?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/js/site/main.js",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/js/site/main.js",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/js/site/main-customer-accounts-site.js?buildtime=1234",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/js/site/main-customer-accounts-site.js",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/js/site/main-customer-accounts-site.js",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/common/social-icons/@2x-s0ae7d70c70.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/common/social-icons/@2x-s0ae7d70c70.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/common/social-icons/@2x-s0ae7d70c70.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/common/social-icons-s5ea5500bdb.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/common/social-icons-s5ea5500bdb.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/common/social-icons-s5ea5500bdb.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/site/forms/@2x-s47607b315a.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/forms/@2x-s47607b315a.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/forms/@2x-s47607b315a.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/site/forms-s3786257308.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/forms-s3786257308.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/forms-s3786257308.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/site/mini-cart/@2x-s576cbc3f90.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mini-cart/@2x-s576cbc3f90.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mini-cart/@2x-s576cbc3f90.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/site/mini-cart-s86c48effae.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mini-cart-s86c48effae.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mini-cart-s86c48effae.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/site/mobile/commerce/@2x-s82f968c453.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mobile/commerce/@2x-s82f968c453.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mobile/commerce/@2x-s82f968c453.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/site/mobile/commerce-sdf6d4e852c.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mobile/commerce-sdf6d4e852c.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/site/mobile/commerce-sdf6d4e852c.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/util/inputs/checkmarkBox/@2x-s211a47d318.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/inputs/checkmarkBox/@2x-s211a47d318.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/inputs/checkmarkBox/@2x-s211a47d318.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/util/inputs/checkmarkBox-s7868418152.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/inputs/checkmarkBox-s7868418152.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/inputs/checkmarkBox-s7868418152.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/util/videojs/@2x-s2aff7e7d9a.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/videojs/@2x-s2aff7e7d9a.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/videojs/@2x-s2aff7e7d9a.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn11.editmysite.com/sprites/util/videojs-sacae758aa2.png",
+        "local_url":  "/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/videojs-sacae758aa2.png",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn11.editmysite.com/sprites/util/videojs-sacae758aa2.png",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/EB_Garamond/font.css?2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/font.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/font.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/EB_Garamond/regular.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/EB_Garamond/regular.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/EB_Garamond/regular.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/EB_Garamond/regular.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/EB_Garamond/regular.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/EB_Garamond/regular.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Gentium_Basic/font.css?2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/font.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/font.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Gentium_Basic/regular.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Gentium_Basic/regular.eot?",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Gentium_Basic/regular.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/regular.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Gentium_Basic/regular.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bold.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bold.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bold.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bold.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bold.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bold.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bolditalic.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bolditalic.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bolditalic.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bolditalic.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/bolditalic.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/bolditalic.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/font.css?2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/font.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/font.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/italic.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/italic.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/italic.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/italic.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/italic.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/italic.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/regular.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/regular.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/regular.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/regular.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Lora/regular.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Lora/regular.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/bold.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/bold.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/bold.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/bold.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/bold.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/bold.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/font.css?2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/font.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/font.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/regular.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/regular.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/regular.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/regular.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Montserrat/regular.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Montserrat/regular.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bold.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bold.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bold.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bold.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bold.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bold.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/bolditalic.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/font.css?2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/font.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/font.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/italic.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/italic.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/italic.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/italic.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/italic.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/italic.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/regular.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/regular.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/regular.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/regular.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Playfair_Display/regular.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Playfair_Display/regular.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/bold.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/bold.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/bold.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/bold.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/bold.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/bold.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/font.css?2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/font.css",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/font.css",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/light.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/light.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/light.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/light.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/light.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/light.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/medium.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/medium.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/medium.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/medium.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/medium.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/medium.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/regular.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/regular.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/regular.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/regular.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/regular.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/regular.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/semibold.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/semibold.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/semibold.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/semibold.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/semibold.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/semibold.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/ultralight.eot",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/ultralight.eot?#iefix",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.eot",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.eot",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/ultralight.ttf",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.ttf",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.ttf",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/ultralight.woff",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.woff",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.woff",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/fonts/Raleway/ultralight.woff2",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.woff2",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/fonts/Raleway/ultralight.woff2",
+        "downloaded":  true
+    },
+    {
+        "external_url":  "https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234\u0026",
+        "local_url":  "/assets/vendor/editmysite/cdn2.editmysite.com/js/lang/en/stl.js",
+        "local_path":  "site-src/static/assets/vendor/editmysite/cdn2.editmysite.com/js/lang/en/stl.js",
+        "downloaded":  true
+    }
+]

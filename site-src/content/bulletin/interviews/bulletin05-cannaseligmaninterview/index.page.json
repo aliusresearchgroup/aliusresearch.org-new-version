@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin05-cannaseligmaninterview",
+    "legacy_path":  "bulletin05-cannaseligmaninterview.html",
+    "legacy_name":  "bulletin05-cannaseligmaninterview",
+    "canonical_path":  "/bulletin/interviews/bulletin05-cannaseligmaninterview/",
+    "title":  "Canna \u0026amp; Seligman - Alius Bulletin n\u0026deg;5 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin05-cannaseligmaninterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin05-cannaseligmaninterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin05-cannaseligmaninterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin05-cannaseligmaninterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

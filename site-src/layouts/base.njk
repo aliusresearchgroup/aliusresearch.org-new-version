@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html{% if html_tag_attributes %} {{ html_tag_attributes }}{% endif %}>
+<head>
+{{ head_html | safe }}
+</head>
+<body{% if body_tag_attributes %} {{ body_tag_attributes }}{% endif %}>
+{{ body_html | safe }}
+</body>
+</html>

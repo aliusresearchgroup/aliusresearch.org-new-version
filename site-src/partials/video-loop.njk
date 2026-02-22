@@ -1,0 +1,5 @@
+<video autoplay muted loop playsinline preload="metadata" poster="{{ poster_url }}">
+  {% if webm_url %}<source src="{{ webm_url }}" type="video/webm">{% endif %}
+  {% if mp4_url %}<source src="{{ mp4_url }}" type="video/mp4">{% endif %}
+</video>
+<noscript><img src="{{ poster_url }}" alt="{{ alt | default('') }}"></noscript>

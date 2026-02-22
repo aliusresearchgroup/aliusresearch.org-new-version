@@ -1,0 +1,22 @@
+﻿{
+    "id":  "seeing-in-the-dark",
+    "legacy_path":  "seeing-in-the-dark.html",
+    "legacy_name":  "seeing-in-the-dark",
+    "canonical_path":  "/pages/seeing-in-the-dark/",
+    "title":  "Seeing in the dark: making sense of psychedelics action on brain and behaviour in naturalistic settings - Alius",
+    "description":  "Seeing in the dark: making sense of psychedelics action on brain and behaviour in naturalistic settings",
+    "section":  "pages",
+    "subcategory":  "seeing-in-the-dark",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/seeing-in-the-dark/body.html",
+    "head_fragment":  "content/pages/seeing-in-the-dark/head.raw.html",
+    "source_html":  "content/pages/seeing-in-the-dark/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-seeing-in-the-dark  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

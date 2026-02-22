@@ -1,0 +1,22 @@
+﻿{
+    "id":  "team-743740",
+    "legacy_path":  "team-743740.html",
+    "legacy_name":  "team-743740",
+    "canonical_path":  "/about/team/team-743740/",
+    "title":  "Team - Alius",
+    "description":  "",
+    "section":  "about",
+    "subcategory":  "team",
+    "layout":  "page",
+    "nav_group":  "about",
+    "order":  0,
+    "body_fragment":  "content/about/team/team-743740/body.html",
+    "head_fragment":  "content/about/team/team-743740/head.raw.html",
+    "source_html":  "content/about/team/team-743740/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-team-743740  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

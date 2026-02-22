@@ -1,0 +1,22 @@
+﻿{
+    "id":  "self-other",
+    "legacy_path":  "self-other.html",
+    "legacy_name":  "self-other",
+    "canonical_path":  "/research/projects/self-other/",
+    "title":  "Externalization of the self and internalization of the other - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/self-other/body.html",
+    "head_fragment":  "content/research/projects/self-other/head.raw.html",
+    "source_html":  "content/research/projects/self-other/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-self-other  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

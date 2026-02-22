@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin03-winkelmaninterview",
+    "legacy_path":  "bulletin03-winkelmaninterview.html",
+    "legacy_name":  "bulletin03-winkelmaninterview",
+    "canonical_path":  "/bulletin/interviews/bulletin03-winkelmaninterview/",
+    "title":  "Michael Winkelman - Alius Bulletin n\u0026deg;3 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin03-winkelmaninterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin03-winkelmaninterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin03-winkelmaninterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin03-winkelmaninterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

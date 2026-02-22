@@ -1,0 +1,22 @@
+﻿{
+    "id":  "media",
+    "legacy_path":  "media.html",
+    "legacy_name":  "media",
+    "canonical_path":  "/media/media/",
+    "title":  "Media - Alius",
+    "description":  "",
+    "section":  "media",
+    "subcategory":  "media",
+    "layout":  "article",
+    "nav_group":  "media",
+    "order":  0,
+    "body_fragment":  "content/media/media/body.html",
+    "head_fragment":  "content/media/media/head.raw.html",
+    "source_html":  "content/media/media/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-media  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

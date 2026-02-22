@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin05",
+    "legacy_path":  "bulletin05.html",
+    "legacy_name":  "bulletin05",
+    "canonical_path":  "/bulletin/issues/bulletin-05/",
+    "title":  "Bulletin Issue n\u0026deg;5 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "issues",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/issues/bulletin-05/body.html",
+    "head_fragment":  "content/bulletin/issues/bulletin-05/head.raw.html",
+    "source_html":  "content/bulletin/issues/bulletin-05/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin05  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

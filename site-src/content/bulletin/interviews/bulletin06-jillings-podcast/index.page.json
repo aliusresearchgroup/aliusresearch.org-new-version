@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin06-jillings-podcast",
+    "legacy_path":  "bulletin06-jillings-podcast.html",
+    "legacy_name":  "bulletin06-jillings-podcast",
+    "canonical_path":  "/bulletin/interviews/bulletin06-jillings-podcast/",
+    "title":  "Jillings - Alius Bulletin n\u0026deg;6 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin06-jillings-podcast/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin06-jillings-podcast/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin06-jillings-podcast/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin06-jillings-podcast  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

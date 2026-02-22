@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin03-dienesinterview",
+    "legacy_path":  "bulletin03-dienesinterview.html",
+    "legacy_name":  "bulletin03-dienesinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin03-dienesinterview/",
+    "title":  "Zoltan Dienes - Alius Bulletin n\u0026deg;3 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin03-dienesinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin03-dienesinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin03-dienesinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin03-dienesinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "psychedelic-therapy",
+    "legacy_path":  "psychedelic-therapy.html",
+    "legacy_name":  "psychedelic-therapy",
+    "canonical_path":  "/research/projects/psychedelic-therapy/",
+    "title":  "Psychedelic-Assisted Therapy: From Research to Policy Implementation - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/psychedelic-therapy/body.html",
+    "head_fragment":  "content/research/projects/psychedelic-therapy/head.raw.html",
+    "source_html":  "content/research/projects/psychedelic-therapy/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-psychedelic-therapy  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

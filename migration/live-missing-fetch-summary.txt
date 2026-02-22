@@ -1,0 +1,8 @@
+Generated UTC: 2026-02-22T16:46:21.0049898Z
+Base URL: https://www.aliusresearch.org
+Input report: C:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\migration\link-check-issues.csv
+Candidate unique assets: 42
+Downloaded: 39
+Skipped existing: 0
+Failed: 3
+Results CSV: C:\Users\cogpsy-vrlab\Documents\GitHub\aliusresearch.org\migration\live-missing-fetch-results.csv

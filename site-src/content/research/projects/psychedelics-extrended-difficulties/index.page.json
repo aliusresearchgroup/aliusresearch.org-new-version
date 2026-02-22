@@ -1,0 +1,22 @@
+﻿{
+    "id":  "psychedelics-extrended-difficulties",
+    "legacy_path":  "psychedelics-extrended-difficulties.html",
+    "legacy_name":  "psychedelics-extrended-difficulties",
+    "canonical_path":  "/research/projects/psychedelics-extrended-difficulties/",
+    "title":  "Navigating Ontologically Challenging Psychedelic Experiences - Alius",
+    "description":  "Extended difficulties following the use of psychedelic drugs​",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/psychedelics-extrended-difficulties/body.html",
+    "head_fragment":  "content/research/projects/psychedelics-extrended-difficulties/head.raw.html",
+    "source_html":  "content/research/projects/psychedelics-extrended-difficulties/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-psychedelics-extrended-difficulties  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "index",
+    "legacy_path":  "index.html",
+    "legacy_name":  "index",
+    "canonical_path":  "/",
+    "title":  "Alius - Exploring the diversity \u0026#8203;of consciousness",
+    "description":  "ALIUS is an international and interdisciplinary research group dedicated to the investigation of all aspects of consciousness.",
+    "section":  "root",
+    "subcategory":  "",
+    "layout":  "page",
+    "nav_group":  "root",
+    "order":  0,
+    "body_fragment":  "content/home/body.html",
+    "head_fragment":  "content/home/head.raw.html",
+    "source_html":  "content/home/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"header-page  wsite-page-index  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

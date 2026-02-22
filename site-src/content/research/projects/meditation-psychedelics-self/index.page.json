@@ -1,0 +1,22 @@
+﻿{
+    "id":  "meditation-psychedelics-self",
+    "legacy_path":  "meditation-psychedelics-self.html",
+    "legacy_name":  "meditation-psychedelics-self",
+    "canonical_path":  "/research/projects/meditation-psychedelics-self/",
+    "title":  "Meditation, psychedelics and the self - Alius",
+    "description":  "Meditation, psychedelics and the self",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/meditation-psychedelics-self/body.html",
+    "head_fragment":  "content/research/projects/meditation-psychedelics-self/head.raw.html",
+    "source_html":  "content/research/projects/meditation-psychedelics-self/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-meditation-psychedelics-self  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

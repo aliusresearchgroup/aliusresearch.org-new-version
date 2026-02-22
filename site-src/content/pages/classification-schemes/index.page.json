@@ -1,0 +1,22 @@
+﻿{
+    "id":  "classification-schemes",
+    "legacy_path":  "classification-schemes.html",
+    "legacy_name":  "classification-schemes",
+    "canonical_path":  "/pages/classification-schemes/",
+    "title":  "Classification Schemes of \u0026#8203;Altered States of Consciousness - Alius",
+    "description":  "Classification Schemes of ​Altered States of Consciousness",
+    "section":  "pages",
+    "subcategory":  "classification-schemes",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/classification-schemes/body.html",
+    "head_fragment":  "content/pages/classification-schemes/head.raw.html",
+    "source_html":  "content/pages/classification-schemes/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-classification-schemes  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

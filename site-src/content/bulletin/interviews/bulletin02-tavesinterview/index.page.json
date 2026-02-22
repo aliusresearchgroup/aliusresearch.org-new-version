@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin02-tavesinterview",
+    "legacy_path":  "bulletin02-tavesinterview.html",
+    "legacy_name":  "bulletin02-tavesinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin02-tavesinterview/",
+    "title":  "Ann Taves - Alius Bulletin n\u0026deg;2 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin02-tavesinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin02-tavesinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin02-tavesinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin02-tavesinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

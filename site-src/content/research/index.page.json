@@ -1,0 +1,22 @@
+﻿{
+    "id":  "research1",
+    "legacy_path":  "research1.html",
+    "legacy_name":  "research1",
+    "canonical_path":  "/research/",
+    "title":  "Research - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/body.html",
+    "head_fragment":  "content/research/head.raw.html",
+    "source_html":  "content/research/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-research1  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

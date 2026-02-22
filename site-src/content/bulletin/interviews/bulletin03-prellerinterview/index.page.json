@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin03-prellerinterview",
+    "legacy_path":  "bulletin03-prellerinterview.html",
+    "legacy_name":  "bulletin03-prellerinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin03-prellerinterview/",
+    "title":  "Katrin Preller - Alius Bulletin n\u0026deg;3 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin03-prellerinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin03-prellerinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin03-prellerinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin03-prellerinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

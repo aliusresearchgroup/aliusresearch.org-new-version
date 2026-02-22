@@ -1,0 +1,22 @@
+﻿{
+    "id":  "polona-pozeg-intro",
+    "legacy_path":  "polona-pozeg-intro.html",
+    "legacy_name":  "polona-pozeg-intro",
+    "canonical_path":  "/pages/polona-pozeg-intro/",
+    "title":  "Introducing Polona Pozeg - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "polona-pozeg-intro",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/polona-pozeg-intro/body.html",
+    "head_fragment":  "content/pages/polona-pozeg-intro/head.raw.html",
+    "source_html":  "content/pages/polona-pozeg-intro/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-polona-pozeg-intro  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

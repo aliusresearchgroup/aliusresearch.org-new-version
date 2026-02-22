@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin06-ciaunica-podcast",
+    "legacy_path":  "bulletin06-ciaunica-podcast.html",
+    "legacy_name":  "bulletin06-ciaunica-podcast",
+    "canonical_path":  "/bulletin/interviews/bulletin06-ciaunica-podcast/",
+    "title":  "Ciaunica - Alius Bulletin n\u0026deg;6 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin06-ciaunica-podcast/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin06-ciaunica-podcast/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin06-ciaunica-podcast/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin06-ciaunica-podcast  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

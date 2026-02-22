@@ -1,0 +1,22 @@
+﻿{
+    "id":  "teamtest1",
+    "legacy_path":  "teamtest1.html",
+    "legacy_name":  "teamtest1",
+    "canonical_path":  "/archive/misc/teamtest1/",
+    "title":  "Team - Alius",
+    "description":  "",
+    "section":  "archive",
+    "subcategory":  "misc",
+    "layout":  "page",
+    "nav_group":  "archive",
+    "order":  0,
+    "body_fragment":  "content/archive/misc/teamtest1/body.html",
+    "head_fragment":  "content/archive/misc/teamtest1/head.raw.html",
+    "source_html":  "content/archive/misc/teamtest1/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-teamtest1  full-width-on  wsite-theme-light\"",
+    "status":  "hidden",
+    "redirect_legacy":  true
+}

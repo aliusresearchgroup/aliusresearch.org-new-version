@@ -1,0 +1,22 @@
+﻿{
+    "id":  "voix-et-visions",
+    "legacy_path":  "voix-et-visions.html",
+    "legacy_name":  "voix-et-visions",
+    "canonical_path":  "/pages/voix-et-visions/",
+    "title":  "Voix et visions - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "voix-et-visions",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/voix-et-visions/body.html",
+    "head_fragment":  "content/pages/voix-et-visions/head.raw.html",
+    "source_html":  "content/pages/voix-et-visions/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-voix-et-visions  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

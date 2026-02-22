@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin02-oreganinterview",
+    "legacy_path":  "bulletin02-oreganinterview.html",
+    "legacy_name":  "bulletin02-oreganinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin02-oreganinterview/",
+    "title":  "Kevin O\u0027Regan - Alius Bulletin n\u0026deg;2 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin02-oreganinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin02-oreganinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin02-oreganinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin02-oreganinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

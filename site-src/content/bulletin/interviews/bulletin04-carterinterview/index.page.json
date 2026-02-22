@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin04-carterinterview",
+    "legacy_path":  "bulletin04-carterinterview.html",
+    "legacy_name":  "bulletin04-carterinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin04-carterinterview/",
+    "title":  "Olivia Carter - Alius Bulletin n\u0026deg;4 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin04-carterinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin04-carterinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin04-carterinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin04-carterinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

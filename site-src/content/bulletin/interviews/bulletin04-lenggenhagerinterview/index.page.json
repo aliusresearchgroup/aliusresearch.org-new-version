@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin04-lenggenhagerinterview",
+    "legacy_path":  "bulletin04-lenggenhagerinterview.html",
+    "legacy_name":  "bulletin04-lenggenhagerinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin04-lenggenhagerinterview/",
+    "title":  "Bigna Lenggenhager - Alius Bulletin n\u0026deg;4 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin04-lenggenhagerinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin04-lenggenhagerinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin04-lenggenhagerinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin04-lenggenhagerinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

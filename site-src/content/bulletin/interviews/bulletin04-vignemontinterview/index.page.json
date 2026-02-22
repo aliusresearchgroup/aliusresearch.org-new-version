@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin04-vignemontinterview",
+    "legacy_path":  "bulletin04-vignemontinterview.html",
+    "legacy_name":  "bulletin04-vignemontinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin04-vignemontinterview/",
+    "title":  "Vignemont - Alius Bulletin n\u0026deg;4 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin04-vignemontinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin04-vignemontinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin04-vignemontinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin04-vignemontinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

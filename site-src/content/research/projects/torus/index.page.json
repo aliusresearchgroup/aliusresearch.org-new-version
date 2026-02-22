@@ -1,0 +1,22 @@
+﻿{
+    "id":  "torus",
+    "legacy_path":  "torus.html",
+    "legacy_name":  "torus",
+    "canonical_path":  "/research/projects/torus/",
+    "title":  "torus - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/torus/body.html",
+    "head_fragment":  "content/research/projects/torus/head.raw.html",
+    "source_html":  "content/research/projects/torus/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"header-page  wsite-page-torus  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

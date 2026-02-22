@@ -1,0 +1,22 @@
+﻿{
+    "id":  "about",
+    "legacy_path":  "about.html",
+    "legacy_name":  "about",
+    "canonical_path":  "/about/",
+    "title":  "About - Alius",
+    "description":  "ALIUS Research Group was created to study all aspects of consciousness, with a specific focus on unusual or understudied conscious states traditionally classified as Altered States of Consciousness (ASCs).",
+    "section":  "about",
+    "subcategory":  "",
+    "layout":  "page",
+    "nav_group":  "about",
+    "order":  0,
+    "body_fragment":  "content/about/body.html",
+    "head_fragment":  "content/about/head.raw.html",
+    "source_html":  "content/about/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-about  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

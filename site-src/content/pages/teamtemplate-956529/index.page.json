@@ -1,0 +1,22 @@
+﻿{
+    "id":  "teamtemplate-956529",
+    "legacy_path":  "teamtemplate-956529.html",
+    "legacy_name":  "teamtemplate-956529",
+    "canonical_path":  "/pages/teamtemplate-956529/",
+    "title":  "Team - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "teamtemplate-956529",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/teamtemplate-956529/body.html",
+    "head_fragment":  "content/pages/teamtemplate-956529/head.raw.html",
+    "source_html":  "content/pages/teamtemplate-956529/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-teamtemplate-956529  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

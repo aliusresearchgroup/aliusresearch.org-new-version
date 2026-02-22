@@ -1,0 +1,22 @@
+﻿{
+    "id":  "mapping-dmt",
+    "legacy_path":  "mapping-dmt.html",
+    "legacy_name":  "mapping-dmt",
+    "canonical_path":  "/research/projects/mapping-dmt/",
+    "title":  "Mapping neural dynamics to experience dynamics in a dose-response study of DMT - Alius",
+    "description":  "Mapping neural dynamics to experience dynamics in a dose-response study of DMT",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/mapping-dmt/body.html",
+    "head_fragment":  "content/research/projects/mapping-dmt/head.raw.html",
+    "source_html":  "content/research/projects/mapping-dmt/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-mapping-dmt  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "somatic-cultures-ad-consciousness",
+    "legacy_path":  "somatic-cultures-ad-consciousness.html",
+    "legacy_name":  "somatic-cultures-ad-consciousness",
+    "canonical_path":  "/research/projects/somatic-cultures-ad-consciousness/",
+    "title":  "Somatic Cultures ad Consciousness - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/somatic-cultures-ad-consciousness/body.html",
+    "head_fragment":  "content/research/projects/somatic-cultures-ad-consciousness/head.raw.html",
+    "source_html":  "content/research/projects/somatic-cultures-ad-consciousness/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-somatic-cultures-ad-consciousness  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

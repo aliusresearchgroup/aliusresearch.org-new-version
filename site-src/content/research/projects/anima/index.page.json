@@ -1,0 +1,22 @@
+﻿{
+    "id":  "anima",
+    "legacy_path":  "anima.html",
+    "legacy_name":  "anima",
+    "canonical_path":  "/research/projects/anima/",
+    "title":  "anima - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/anima/body.html",
+    "head_fragment":  "content/research/projects/anima/head.raw.html",
+    "source_html":  "content/research/projects/anima/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-anima  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

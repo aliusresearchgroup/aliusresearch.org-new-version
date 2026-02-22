@@ -1,0 +1,6 @@
+HTML pages scanned: 145
+Common style blocks (present on all pages): 2
+Common script blocks (present on all pages): 8
+Footer variants: 1; dominant footer pages: 145
+Mobile nav variants: 27; dominant mobile nav pages: 119
+Desktop nav variants: 145; dominant desktop nav pages: 1

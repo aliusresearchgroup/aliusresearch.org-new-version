@@ -1,0 +1,22 @@
+﻿{
+    "id":  "track1-600953",
+    "legacy_path":  "track1-600953.html",
+    "legacy_name":  "track1-600953",
+    "canonical_path":  "/media/track1-600953/",
+    "title":  "track1 - Alius",
+    "description":  "",
+    "section":  "media",
+    "subcategory":  "track1-600953",
+    "layout":  "article",
+    "nav_group":  "media",
+    "order":  0,
+    "body_fragment":  "content/media/track1-600953/body.html",
+    "head_fragment":  "content/media/track1-600953/head.raw.html",
+    "source_html":  "content/media/track1-600953/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-track1-600953  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

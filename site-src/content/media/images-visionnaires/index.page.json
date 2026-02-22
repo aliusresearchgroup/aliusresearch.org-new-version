@@ -1,0 +1,22 @@
+﻿{
+    "id":  "images-visionnaires",
+    "legacy_path":  "images-visionnaires.html",
+    "legacy_name":  "images-visionnaires",
+    "canonical_path":  "/media/images-visionnaires/",
+    "title":  "Images Visionnaires - Alius",
+    "description":  "",
+    "section":  "media",
+    "subcategory":  "images-visionnaires",
+    "layout":  "article",
+    "nav_group":  "media",
+    "order":  0,
+    "body_fragment":  "content/media/images-visionnaires/body.html",
+    "head_fragment":  "content/media/images-visionnaires/head.raw.html",
+    "source_html":  "content/media/images-visionnaires/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-images-visionnaires  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "journee-etudes-martin-fortier",
+    "legacy_path":  "journee-etudes-martin-fortier.html",
+    "legacy_name":  "journee-etudes-martin-fortier",
+    "canonical_path":  "/pages/journee-etudes-martin-fortier/",
+    "title":  "Journ\u0026eacute;e d\u0027\u0026eacute;tudes Martin Fortier - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "journee-etudes-martin-fortier",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/journee-etudes-martin-fortier/body.html",
+    "head_fragment":  "content/pages/journee-etudes-martin-fortier/head.raw.html",
+    "source_html":  "content/pages/journee-etudes-martin-fortier/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-journee-etudes-martin-fortier  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

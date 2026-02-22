@@ -1,0 +1,22 @@
+﻿{
+    "id":  "journal-club-995321",
+    "legacy_path":  "journal-club-995321.html",
+    "legacy_name":  "journal-club-995321",
+    "canonical_path":  "/events/journal-club-995321/",
+    "title":  "Journal Clubs - Alius",
+    "description":  "",
+    "section":  "events",
+    "subcategory":  "journal-club-995321",
+    "layout":  "article",
+    "nav_group":  "events",
+    "order":  0,
+    "body_fragment":  "content/events/journal-club-995321/body.html",
+    "head_fragment":  "content/events/journal-club-995321/head.raw.html",
+    "source_html":  "content/events/journal-club-995321/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-journal-club-995321  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "psychedelics-challenging-experiences",
+    "legacy_path":  "psychedelics-challenging-experiences.html",
+    "legacy_name":  "psychedelics-challenging-experiences",
+    "canonical_path":  "/research/projects/psychedelics-challenging-experiences/",
+    "title":  "Navigating Ontologically Challenging Psychedelic Experiences - Alius",
+    "description":  "Navigating Ontologically Challenging Psychedelic Experiences",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/psychedelics-challenging-experiences/body.html",
+    "head_fragment":  "content/research/projects/psychedelics-challenging-experiences/head.raw.html",
+    "source_html":  "content/research/projects/psychedelics-challenging-experiences/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-psychedelics-challenging-experiences  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

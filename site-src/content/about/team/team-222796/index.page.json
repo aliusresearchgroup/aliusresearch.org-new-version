@@ -1,0 +1,22 @@
+﻿{
+    "id":  "team-222796",
+    "legacy_path":  "team-222796.html",
+    "legacy_name":  "team-222796",
+    "canonical_path":  "/about/team/team-222796/",
+    "title":  "Coordinators - Alius",
+    "description":  "",
+    "section":  "about",
+    "subcategory":  "team",
+    "layout":  "page",
+    "nav_group":  "about",
+    "order":  0,
+    "body_fragment":  "content/about/team/team-222796/body.html",
+    "head_fragment":  "content/about/team/team-222796/head.raw.html",
+    "source_html":  "content/about/team/team-222796/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-team-222796  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

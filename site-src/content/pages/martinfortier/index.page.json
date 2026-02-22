@@ -1,0 +1,22 @@
+﻿{
+    "id":  "martinfortier",
+    "legacy_path":  "martinfortier.html",
+    "legacy_name":  "martinfortier",
+    "canonical_path":  "/pages/martinfortier/",
+    "title":  "In Memoriam - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "martinfortier",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/martinfortier/body.html",
+    "head_fragment":  "content/pages/martinfortier/head.raw.html",
+    "source_html":  "content/pages/martinfortier/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-martinfortier  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

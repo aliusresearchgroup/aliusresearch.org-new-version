@@ -1,0 +1,22 @@
+﻿{
+    "id":  "music",
+    "legacy_path":  "music.html",
+    "legacy_name":  "music",
+    "canonical_path":  "/media/music/",
+    "title":  "Music - Alius",
+    "description":  "",
+    "section":  "media",
+    "subcategory":  "music",
+    "layout":  "article",
+    "nav_group":  "media",
+    "order":  0,
+    "body_fragment":  "content/media/music/body.html",
+    "head_fragment":  "content/media/music/head.raw.html",
+    "source_html":  "content/media/music/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-music  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "newsletter",
+    "legacy_path":  "newsletter.html",
+    "legacy_name":  "newsletter",
+    "canonical_path":  "/community/newsletter/",
+    "title":  "Newsletter - Alius",
+    "description":  "",
+    "section":  "community",
+    "subcategory":  "newsletter",
+    "layout":  "page",
+    "nav_group":  "community",
+    "order":  0,
+    "body_fragment":  "content/community/newsletter/body.html",
+    "head_fragment":  "content/community/newsletter/head.raw.html",
+    "source_html":  "content/community/newsletter/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-newsletter  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

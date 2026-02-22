@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin03-bayneinterview",
+    "legacy_path":  "bulletin03-bayneinterview.html",
+    "legacy_name":  "bulletin03-bayneinterview",
+    "canonical_path":  "/bulletin/interviews/bulletin03-bayneinterview/",
+    "title":  "Tim Bayne - Alius Bulletin n\u0026deg;3 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin03-bayneinterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin03-bayneinterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin03-bayneinterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin03-bayneinterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

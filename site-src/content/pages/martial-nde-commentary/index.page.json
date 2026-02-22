@@ -1,0 +1,22 @@
+﻿{
+    "id":  "martial-nde-commentary",
+    "legacy_path":  "martial-nde-commentary.html",
+    "legacy_name":  "martial-nde-commentary",
+    "canonical_path":  "/pages/martial-nde-commentary/",
+    "title":  "Martial - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "martial-nde-commentary",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/martial-nde-commentary/body.html",
+    "head_fragment":  "content/pages/martial-nde-commentary/head.raw.html",
+    "source_html":  "content/pages/martial-nde-commentary/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-martial-nde-commentary  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

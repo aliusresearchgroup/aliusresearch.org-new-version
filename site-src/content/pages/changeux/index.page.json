@@ -1,0 +1,22 @@
+﻿{
+    "id":  "changeux",
+    "legacy_path":  "changeux.html",
+    "legacy_name":  "changeux",
+    "canonical_path":  "/pages/changeux/",
+    "title":  "Changeux - Alius",
+    "description":  "Consciousness : from molecular to social scales",
+    "section":  "pages",
+    "subcategory":  "changeux",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/changeux/body.html",
+    "head_fragment":  "content/pages/changeux/head.raw.html",
+    "source_html":  "content/pages/changeux/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-changeux  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

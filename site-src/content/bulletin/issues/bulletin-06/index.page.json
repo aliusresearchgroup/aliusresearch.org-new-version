@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin06",
+    "legacy_path":  "bulletin06.html",
+    "legacy_name":  "bulletin06",
+    "canonical_path":  "/bulletin/issues/bulletin-06/",
+    "title":  "Bulletin Issue n\u0026deg;6 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "issues",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/issues/bulletin-06/body.html",
+    "head_fragment":  "content/bulletin/issues/bulletin-06/head.raw.html",
+    "source_html":  "content/bulletin/issues/bulletin-06/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin06  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

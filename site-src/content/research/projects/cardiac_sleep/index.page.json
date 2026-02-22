@@ -1,0 +1,22 @@
+﻿{
+    "id":  "cardiac-sleep",
+    "legacy_path":  "cardiac_sleep.html",
+    "legacy_name":  "cardiac_sleep",
+    "canonical_path":  "/research/projects/cardiac_sleep/",
+    "title":  "Cardiac responses to sounds reveal the embodiment of sleep functions - Alius",
+    "description":  "",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/cardiac_sleep/body.html",
+    "head_fragment":  "content/research/projects/cardiac_sleep/head.raw.html",
+    "source_html":  "content/research/projects/cardiac_sleep/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-cardiac_sleep  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

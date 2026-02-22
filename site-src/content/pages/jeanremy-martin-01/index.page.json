@@ -1,0 +1,22 @@
+﻿{
+    "id":  "jeanremy-martin-01",
+    "legacy_path":  "jeanremy-martin-01.html",
+    "legacy_name":  "jeanremy-martin-01",
+    "canonical_path":  "/pages/jeanremy-martin-01/",
+    "title":  "Jean-R\u0026eacute;my Martin - Consciousness anaesthetised: placebo and metacognition - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "jeanremy-martin-01",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/jeanremy-martin-01/body.html",
+    "head_fragment":  "content/pages/jeanremy-martin-01/head.raw.html",
+    "source_html":  "content/pages/jeanremy-martin-01/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-jeanremy-martin-01  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

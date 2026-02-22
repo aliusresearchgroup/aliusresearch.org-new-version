@@ -1,0 +1,22 @@
+﻿{
+    "id":  "1",
+    "legacy_path":  "1.html",
+    "legacy_name":  "1",
+    "canonical_path":  "/archive/misc/1/",
+    "title":  "rabbithole1 - Alius",
+    "description":  "",
+    "section":  "archive",
+    "subcategory":  "misc",
+    "layout":  "page",
+    "nav_group":  "archive",
+    "order":  0,
+    "body_fragment":  "content/archive/misc/1/body.html",
+    "head_fragment":  "content/archive/misc/1/head.raw.html",
+    "source_html":  "content/archive/misc/1/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"header-page  wsite-page-1  full-width-on  wsite-theme-light\"",
+    "status":  "hidden",
+    "redirect_legacy":  true
+}

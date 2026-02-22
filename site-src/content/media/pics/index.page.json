@@ -1,0 +1,22 @@
+﻿{
+    "id":  "pics",
+    "legacy_path":  "pics.html",
+    "legacy_name":  "pics",
+    "canonical_path":  "/media/pics/",
+    "title":  "Pictures - Alius",
+    "description":  "",
+    "section":  "media",
+    "subcategory":  "pics",
+    "layout":  "article",
+    "nav_group":  "media",
+    "order":  0,
+    "body_fragment":  "content/media/pics/body.html",
+    "head_fragment":  "content/media/pics/head.raw.html",
+    "source_html":  "content/media/pics/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-pics  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

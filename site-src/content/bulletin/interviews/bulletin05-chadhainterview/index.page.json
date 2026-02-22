@@ -1,0 +1,22 @@
+﻿{
+    "id":  "bulletin05-chadhainterview",
+    "legacy_path":  "bulletin05-chadhainterview.html",
+    "legacy_name":  "bulletin05-chadhainterview",
+    "canonical_path":  "/bulletin/interviews/bulletin05-chadhainterview/",
+    "title":  "Chadha - Alius Bulletin n\u0026deg;5 - Alius",
+    "description":  "",
+    "section":  "bulletin",
+    "subcategory":  "interviews",
+    "layout":  "article",
+    "nav_group":  "bulletin",
+    "order":  0,
+    "body_fragment":  "content/bulletin/interviews/bulletin05-chadhainterview/body.html",
+    "head_fragment":  "content/bulletin/interviews/bulletin05-chadhainterview/head.raw.html",
+    "source_html":  "content/bulletin/interviews/bulletin05-chadhainterview/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-bulletin05-chadhainterview  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

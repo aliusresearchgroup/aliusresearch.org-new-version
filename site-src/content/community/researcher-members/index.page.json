@@ -1,0 +1,22 @@
+﻿{
+    "id":  "researcher-members",
+    "legacy_path":  "researcher-members.html",
+    "legacy_name":  "researcher-members",
+    "canonical_path":  "/community/researcher-members/",
+    "title":  "Researcher Members - Alius",
+    "description":  "",
+    "section":  "community",
+    "subcategory":  "researcher-members",
+    "layout":  "page",
+    "nav_group":  "community",
+    "order":  0,
+    "body_fragment":  "content/community/researcher-members/body.html",
+    "head_fragment":  "content/community/researcher-members/head.raw.html",
+    "source_html":  "content/community/researcher-members/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-researcher-members  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

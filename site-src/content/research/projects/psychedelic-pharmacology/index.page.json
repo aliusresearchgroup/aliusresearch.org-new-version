@@ -1,0 +1,22 @@
+﻿{
+    "id":  "psychedelic-pharmacology",
+    "legacy_path":  "psychedelic-pharmacology.html",
+    "legacy_name":  "psychedelic-pharmacology",
+    "canonical_path":  "/research/projects/psychedelic-pharmacology/",
+    "title":  "Pharmacological principles of psychedelic drug action - Alius",
+    "description":  "What do pharmacological principles teach us on psychedelic drug action?",
+    "section":  "research",
+    "subcategory":  "projects",
+    "layout":  "article",
+    "nav_group":  "research",
+    "order":  0,
+    "body_fragment":  "content/research/projects/psychedelic-pharmacology/body.html",
+    "head_fragment":  "content/research/projects/psychedelic-pharmacology/head.raw.html",
+    "source_html":  "content/research/projects/psychedelic-pharmacology/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-psychedelic-pharmacology  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}

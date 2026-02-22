@@ -1,0 +1,22 @@
+﻿{
+    "id":  "tulpamancy-522105",
+    "legacy_path":  "tulpamancy-522105.html",
+    "legacy_name":  "tulpamancy-522105",
+    "canonical_path":  "/pages/tulpamancy-522105/",
+    "title":  "Tulpamancy - Alius",
+    "description":  "",
+    "section":  "pages",
+    "subcategory":  "tulpamancy-522105",
+    "layout":  "page",
+    "nav_group":  "pages",
+    "order":  0,
+    "body_fragment":  "content/pages/tulpamancy-522105/body.html",
+    "head_fragment":  "content/pages/tulpamancy-522105/head.raw.html",
+    "source_html":  "content/pages/tulpamancy-522105/original.html",
+    "page_css":  "",
+    "page_js":  "",
+    "html_tag_attributes":  "lang=\"en\"",
+    "body_tag_attributes":  "class=\"no-header  wsite-page-tulpamancy-522105  full-width-on  wsite-theme-light\"",
+    "status":  "published",
+    "redirect_legacy":  true
+}
