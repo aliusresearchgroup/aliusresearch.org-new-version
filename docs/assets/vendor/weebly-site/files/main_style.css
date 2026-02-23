@@ -308,3 +308,21 @@ div.paragraph ul, div.paragraph ol { padding-left: 3em !important; margin: 5px 0
 div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
 div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
 div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }
+
+/* ALIUS: remove flyout/dropdown menus globally.
+   Keeps the centered top navigation visible while disabling hover submenus. */
+#wsite-menus,
+#navigation .wsite-menu-wrap,
+#navmobile .wsite-menu-wrap,
+.wsite-menu-wrap {
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	pointer-events: none !important;
+}
+
+#navigation .wsite-menu-arrow,
+#navmobile .wsite-menu-arrow,
+.wsite-menu-arrow {
+	display: none !important;
+}
