@@ -8,6 +8,8 @@
        url('./ultralight.woff2') format('woff2'), /* Super Modern Browsers */
        url('./ultralight.woff') format('woff'), /* Modern Browsers */
        url('./ultralight.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
 
 @font-face {
@@ -19,6 +21,8 @@
        url('./light.woff2') format('woff2'), /* Super Modern Browsers */
        url('./light.woff') format('woff'), /* Modern Browsers */
        url('./light.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
 
 @font-face {
@@ -30,6 +34,8 @@
        url('./regular.woff2') format('woff2'), /* Super Modern Browsers */
        url('./regular.woff') format('woff'), /* Modern Browsers */
        url('./regular.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
 
 @font-face {
@@ -41,6 +47,8 @@
        url('./medium.woff2') format('woff2'), /* Super Modern Browsers */
        url('./medium.woff') format('woff'), /* Modern Browsers */
        url('./medium.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
 
 @font-face {
@@ -52,6 +60,8 @@
        url('./semibold.woff2') format('woff2'), /* Super Modern Browsers */
        url('./semibold.woff') format('woff'), /* Modern Browsers */
        url('./semibold.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
 
 @font-face {
@@ -63,4 +73,6 @@
        url('./bold.woff2') format('woff2'), /* Super Modern Browsers */
        url('./bold.woff') format('woff'), /* Modern Browsers */
        url('./bold.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }

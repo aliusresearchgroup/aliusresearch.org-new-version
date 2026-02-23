@@ -8,6 +8,8 @@
        url('./regular.woff2') format('woff2'), /* Super Modern Browsers */
        url('./regular.woff') format('woff'), /* Modern Browsers */
        url('./regular.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
 
 @font-face {
@@ -19,4 +21,6 @@
        url('./bold.woff2') format('woff2'), /* Super Modern Browsers */
        url('./bold.woff') format('woff'), /* Modern Browsers */
        url('./bold.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-display: swap;
 }
